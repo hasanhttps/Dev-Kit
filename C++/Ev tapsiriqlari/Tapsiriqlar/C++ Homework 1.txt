@@ -1,0 +1,25 @@
+website = "http://www.google.com"
+course = 'Our course is best in the World, STEP IT ACADEMY Azerbaijan'
+
+# 1- 'course' xarakter siyahisinda nece dene xarakter var ?
+
+# 2- 'website' içinden "www" xarakterlerini alin ve print edin.
+
+# 3- 'website' içinden "com" xarakterlerini alın ve print edin.
+
+# 4- 'course' içinden ilk 10 ve son 10 xarakterlerini alın.
+
+# 5- 'course' ifadesindeki xarakterleri tersden yazdırın.
+
+# 6- 'Hello programmers' ifadesindeki 'p' herfini 'P' ile evez edin.
+
+# 7- 'abc' ifadesini yan yana 3 defe yazdırın.
+
+
+name = 'Cavid'
+surname = 'Atamoghlanov'
+age = 24
+job = 'muellim'
+
+# 8- Yukarıda verilen deyişenler ile ekrana aşağıdaki ifadeni yazdırın.
+#    'Menim adım Cavid Atamoghlanov, Yaşım 24 ve ixtisasim muellim.'

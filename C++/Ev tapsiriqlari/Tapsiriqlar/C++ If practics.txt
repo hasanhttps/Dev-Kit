@@ -1,0 +1,49 @@
+# Tapsiriq 1
+# Trubo.az menusunu duzeldin.
+# Istifadecinin ekranina uc mashin markasi cap olunur misal ucun 
+# 1)Mercedes-Benz
+# 2)BMW
+# 3)Toyota
+# seciminden asili olaraq masinin modelleri ekrana cap olunmalidir. Misal ucun 1 daxil edibse, ekrana:
+# 1)A-class
+# 2)C-class
+# 3)E-class
+# 4)S-class
+# Burada istifadecinin seciminden asli olaraq modellerin novlerini ekrana cixartmalidir. Misal ucun 3 secirse, ekrana:
+# E200
+# E250
+# E350
+# E63
+# cixmalidir.
+# Komekci: burada if-in icinde if konstruksiyalari yaratmalisiz.
+-----------------------------------------------------------------------------------------------------------------------------------
+# Tapsiriq 2
+
+# # Istifadeci faylin olcusunu (megabaytla)
+# # ve internet suretini (megabyt/saniyede) daxil edir.
+# #
+# # Istifadecini seciminden asili olaraq faylin yuklenmesine nece:
+# # 1)saniye
+# # 2)deqiqe
+# # 3)saat
+# # lazim oldugunu ekrana cixardin
+# 1:40
+
+
+
+
+
+
+
+# -------------------------------------Home Work----------------------------------------
+
+
+# istifadci evvelce ayi sonra ise gunu daxil edir siz onun hansi burcde oldugunu tapirsiz
+
+
+# -----------------------------------HOME WORK---------------------------------------------------
+# Tapsiriq 1
+# Istifadeci heftenin gunune klaviaturadan daxil edir
+# (1-7). Program heftenin gununun adini ekrana cixartmalidir. Meselen, eger 1, onda ekrana bazar ertesini,
+# 2 - cersenbe axsami ve s. Istisnalari islemek unutmayin  8 ve 10 yazna istifadeci.
+

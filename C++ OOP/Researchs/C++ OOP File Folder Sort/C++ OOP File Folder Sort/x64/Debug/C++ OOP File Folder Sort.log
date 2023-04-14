@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP File Folder Sort\C++ OOP File Folder Sort\Source.cpp(30,25): warning C4244: 'argument': conversion from 'DWORD' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(172,54): warning C4244: 'initializing': conversion from '__int64' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\hasan\source\repos\C++ OOP File Folder Sort\C++ OOP File Folder Sort\Source.cpp(31,54): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,__int64&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=__int64 &
+          ]
+C:\Users\hasan\source\repos\C++ OOP File Folder Sort\C++ OOP File Folder Sort\Source.cpp(31,28): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<std::string&,__int64&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=std::string &,
+              _Other2=__int64 &
+          ]
+  C++ OOP File Folder Sort.vcxproj -> C:\Users\hasan\source\repos\C++ OOP File Folder Sort\x64\Debug\C++ OOP File Folder Sort.exe

@@ -1,0 +1,18 @@
+﻿  Game.cpp
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(13,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(13,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(85,82): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(86,50): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(87,59): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(88,111): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(89,65): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(90,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(99,79): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(100,47): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(101,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(102,108): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(103,62): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(104,53): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(272,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Game\Game\Game.cpp(668,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> C:\Users\hasan\source\repos\Game\x64\Debug\Game.exe

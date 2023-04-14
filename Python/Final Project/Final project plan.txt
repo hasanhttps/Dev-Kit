@@ -1,0 +1,19 @@
+Admins
+
+1)Yeni pizza eklemek 
+2)Edit etmek
+3)Silmek
+4)Qiymetini artirmaq
+5)Adini deisdirmek
+
+
+#---------------------------------------------------------------------------------------------------
+
+Users
+
+
+1)Siparis etmek
+2)Talep
+3)Sikayet
+4)Destek
+

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(18,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(75,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(73,1): message : while compiling class template member function 'void Printer<Worker>::start(void)'
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(92,10): message : see reference to function template instantiation 'void Printer<Worker>::start(void)' being compiled
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(91,26): message : see reference to class template instantiation 'Printer<Worker>' being compiled
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(59,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(51,1): message : while compiling class template member function 'int Queue<Worker>::deQueue(void)'
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(78,18): message : see reference to function template instantiation 'int Queue<Worker>::deQueue(void)' being compiled
+C:\Users\hasan\source\repos\C++ OOP Queue\C++ OOP Queue\Source.cpp(88,16): message : see reference to class template instantiation 'Queue<Worker>' being compiled
+  C++ OOP Queue.vcxproj -> C:\Users\hasan\source\repos\C++ OOP Queue\x64\Debug\C++ OOP Queue.exe

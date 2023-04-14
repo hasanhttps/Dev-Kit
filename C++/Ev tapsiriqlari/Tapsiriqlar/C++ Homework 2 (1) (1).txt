@@ -1,0 +1,20 @@
+website = "http://www.google.com"
+course = 'Our course is best in the World, STEP IT ACADEMY Azerbaijan'
+
+# 1- ' Hello World ' xarakter siyahisinda baş ve sondaki boşluk xarakterlerini silin.
+
+# 2- 'course' xarakter siyahisinda bütün xarakterlerini kiçik herf edin.
+
+# 3- 'website' içinde nece dene "a" xarakteri var ?
+
+# 4- 'website' "www" ile başlayıp "com" ile bitir?
+
+# 5- 'website' içinde '.com' ifadesi var?
+
+# 6- 'course' içindeki xarakterlerin hamsi alfabetikdi? (isalpha, isdigit)
+
+# 7- 'Contents' ifadesini setirda 60 xarakter içine yerleşdirib sağ ve soluna * elave edin.
+
+# 8- 'course' xarakter siyahisinda bütün boşluq xarakterlerini '-' ile evez edin.
+
+# 9-'Hello World' xarakter siyahisinda 'World' ifadesini 'There' olarak  evez edin.

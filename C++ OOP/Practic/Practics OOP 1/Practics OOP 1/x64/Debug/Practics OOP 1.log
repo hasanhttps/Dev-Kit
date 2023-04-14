@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\Practics OOP 1\Practics OOP 1\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Practics OOP 1\Practics OOP 1\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Practics OOP 1\Practics OOP 1\Functions.h(5,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Practics OOP 1.vcxproj -> C:\Users\hasan\source\repos\Practics OOP 1\x64\Debug\Practics OOP 1.exe

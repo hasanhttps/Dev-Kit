@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\Battleship\Battleship\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleship\Battleship\Source.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Battleship.vcxproj -> C:\Users\hasan\source\repos\Battleship\x64\Debug\Battleship.exe

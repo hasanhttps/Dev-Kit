@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ Tasks for exam\C++ Tasks for exam\Source.cpp(187,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hasan\source\repos\C++ Tasks for exam\C++ Tasks for exam\Source.cpp(208,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\hasan\source\repos\C++ Tasks for exam\C++ Tasks for exam\Source.cpp(222,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\hasan\source\repos\C++ Tasks for exam\C++ Tasks for exam\Source.cpp(230): warning C4715: 'setBoat': not all control paths return a value
+  C++ Tasks for exam.vcxproj -> C:\Users\hasan\source\repos\C++ Tasks for exam\x64\Debug\C++ Tasks for exam.exe

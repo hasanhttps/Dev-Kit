@@ -1,0 +1,49 @@
+1)Kompilyasiya nedir?
+
+Yazilmish kodu compliyasiya edir mashin diline cevirir.Eger error varsa kodu run etmir errorlarin warninglerin sayini gosderir.
+Eger problem yoxdursa kodu run edir. 
+
+2) Interpretasiya nedir ?
+
+Yazlmish kodu oxuyur mashin diline cevirir.Kodu setir setir oxuyur error olan yere qeder kodu run edir. 
+Eger error varsa proqramin hemin setri ve o setrinden sonra yazilmish kodlar run edilmir.
+
+3) Ekrana melumat çap elemek uçun hansi funksiya istifade edilir?
+
+C++'da printf("anyformat(%d,%s,%f")",variable); ve <stdio.h>  kitabxanasindan istifade edir.Pythonda build-in olaraq print("")funksiyasindan istifade edilir.
+
+4) Melumatin tipine baxmaq uçun hansi funksiya istifade edilir?
+
+type(variable)ile
+
+5) High ve low level programming nedir? Ferqleri nedir?
+
+High level c++,python etc.Low level Machien language Assembly etc.Ferqlerinden birisi High level danisiq diline daha yaxindir. Bir digeri low level programmingdaha suretlidir.
+
+6) Comment nedir ?
+
+Istifadecinin kodda hansi faaliyyetleri etdiyini qeyd etmesi ucundur .
+Meselen deyisenin ve ya funksiyanin ne ise yaradigini unudarsa comment oxuyaraq xatirlaya biler.
+(Single Line) comments C++'da // ile Pythonda # ile isare olunur.
+Coxlu setir ( Multi Line ) ucun Pythonda """""" den istifade olunur . C++'da /* hgghj*/'den istifade olunur.
+
+13) \n - nedir?
+
+Esqape sequenslerden biridir.Pythonda her printin arxasinda default olaraq vardir lakin C++'da printf("") sonunda \n yoxdur.
+Printde \n'in istifade edildiyi yerden sonraki yazilari terminalda alt setire kecirir.
+
+14) \t - nedir?
+
+Escape sequenslerden biridir.C++ ve Pythonda Syntaxis olaraq ferqlenmir.1 tab bosluq qoyur.
+
+15) \ - nedir ?
+
+Escape sequenslerden biridir.\" Qoyduqda printdeki sintaxis onu " olaraq qebul edir belelikle printin " ile qarismir ve xeta cixartmir.
+
+16) Hansi data type-lar var ? ve her biri ne uçun istifade edilir?
+
+C++'da int,float,long,short,double,char vardir. Int (tam sayidir)4bytedir.Float Kesir ededdir Byte'i isletim sistemine gore deyisir.
+Char karakterdir (1 bytedir).Short Intin qisa versiyasidir.(2 bytedir).Long intin uzun versiyasidir(8 bytedir)2**32'e qeder deyer ala bilir.Double Floatin daha uzun versiyasidir
+Daha uzun kesir ededler uzun istifade oliunur.Byte'i isletim sistemine gore deyisir.C++ daki esas datatypeler bunlar idi.Pythonda 4 esas datatype vardir.1)Int2)Float3)String
+4)Boolen :  1) Int c++ daki kimi tam ededir. 2)Float C++ daki kimi Kesir ededlerdir. Tek ferqi daha uzun versiyasinin olmamasidir.3)String -- Yazi tipidir iki dirnaq icerisindeki her bit simvol
+True'dir ,hec bir simvol yoxdursa False'dir.  (Ex:"kjhfdjkhjkh"--stringdir)4)Boolen True ve ya False return edir verilmish serte gore.

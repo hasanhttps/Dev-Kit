@@ -1,0 +1,8 @@
+# 1 --> input vasitesi ile file adi daxil edilir ve bu file yaradilir
+# 2 --> input vasitesi ile Name, surname, fathername, birthyear daxil edilir ve
+#           bele bir telebe  yaranir ve file save edilir
+# 3 --> filedaki butun melumatlari gormek olmalidir.
+# 4 --> filedaki telebeler ada  gore elifba sirasi ile duzulsunler
+# 5 --> Ada gore axtaris (telebenin adi daxil edilir bu addaki telebe  filedan oxunmalidir)
+# 6 --> adi daxil edilmish telebenin butun datatlari filedan silinsin  (final projectden yuksek qiymet ucun mutleq yazilmaidir)
+# 0 --> Program dayansin

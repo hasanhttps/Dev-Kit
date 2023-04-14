@@ -1,0 +1,22 @@
+menu = """
+        [1]  --> yeni telebe elave etmey
+        [2]  --> Secilmish telebeni Edit etmey
+        [3]  --> Secilmish telebeni silmey
+        [4]  --> Ada  gore searching
+        [5]  --> adi daxil edilmish telebeye qiymet verilmesi
+        [6]  --> Adi daxil edilmish  telebenin qiymetleri
+        [7]  --> butun telebeler
+        [0]  --> EXIT
+"""
+
+
+Dersde ishlediyimiz tapshiriqin tekmilleshdirilmesi
+
+qeyd: 1 secilerse (name surname minimum 3 symbol olmali,  yas minimum 2004 maxsimum 1990 ola biler)
+qeyd: 4 secilibse istifadeci ad  daxil edir  bu  adda  neqeder telebe  varsa  cixmalidir
+qeyd: 2 secilibse  Ad daxil  edilir bele bir telebe  olub  olmadiqi yoxlanilir
+		varsa  o telebenin  butun datalari  edit  edilir  yani  deishtirilir
+qeyd: 3 daxil edilmish adda telebe  varsa silirik
+
+
+Tapshiriqdaki herbir prosesi  funksiyalar vasitesi ile edin,  funksiyalari  ayri bir modul kimi saxlayin

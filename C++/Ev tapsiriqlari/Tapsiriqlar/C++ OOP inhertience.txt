@@ -1,0 +1,8 @@
+Car Clasi olcaq Icinde Marka(BMW), Model(770), Il
+Car Classindan Torenece ---  Sedan, Kupe, Off-Road
+Sedan Elave --- Oturacaq Sayi
+Kupe ELave --- Acilan Qapi Meselen 2 , 4 ,3
+Off-Road da elave Teker Olcusu
+Off- Road Toreyecek Pikap CLassi
+PIkapda da Elave Olacaq Yuk Goturme hecmi KG 
+her birinde CAR INFO Funksiyasi olacaq.

@@ -1,0 +1,75 @@
+menu = """
+        [1]   --> yeni telebe elave etmey
+        [2]   --> Secilmish telebeni Edit etmey
+            [y]  --> beli eminem
+            [n]  --> xeyir
+        [3]   --> Secilmish telebeni silmey
+            [y]  --> beli eminem
+            [n]  --> xeyir
+        [4]   --> Ada  gore searching
+        [5]   --> Email daxil edilmish telebeye qiymet verilmesi
+        [6]   --> Email daxil edilmish  telebenin qiymetleri
+        [7]   --> Email daxil edilmish telebenin qiymet ortalamasi
+        [8]   --> Email daxil edilen Telebenin  ishtiraqini qeyd etmek 
+        [9]   --> qayiblarin  sayi
+        [10]  --> Email daxil edilmish telebenin yashinin oyrenilmesi
+        [11]  --> Email daxil edilmish telebenin Groupunu deishmey
+            [y]  --> beli eminem
+            [n]  --> xeyir
+        [12]  --> Eyni groupda olan telebelerin siyahisi
+        [13]  --> Emeail daxil edilmish telebenin oxuduqu muddet verilir (example: Cavid -->> 10 il 3 ay 13 gun)
+        [14]  --> butun telebeler
+        [0]   --> EXIT
+"""
+
+
+allStudent = {
+    "cavid@gmail.com":{
+        "name": "Cavid",
+        "surname": "Hesenli",
+        "fathername": "Aga",
+        "brithyear": 1993,
+        "mark": [10, 11, 12],
+        "view": [0, 1, 0, 0, 0],
+        "group": "11A",
+        "email": "cavid@gmail.com",
+        "created_at": ""
+    },
+    "elsad@gmail.com":{
+        "name": "Elsad",
+        "surname": "Agayev",
+        "fathername": "Musa",
+        "brithyear": 1993,
+        "mark": [10, 11, 12],
+        "view": [0, 1, 0, 0, 0],
+        "group": "11A",
+        "email": "cavid@gmail.com",
+        "created_at": ""
+
+    }
+}
+
+# ------------------------------------------------------------------------
+# 1 secilibse --> Email daxil edilir eyer bu emeile sahib bir telebe yoxdursa  qeydiyyat bashlayir
+        # ad, soyad, ataadi, dogum ili ve qroup daxil ediril. yeni telebe  yaranir  ve  butun telebelere elave edilir 
+        # (name surname minimum 3 symbol olmali,  yas minimum 2004 maxsimum 1990 ola biler)
+        # istifadeci daxil olduqu muddedi daxil edir (example: 2012-05-13)
+# 2 secilibse -->  Email daxil edilir eyer bu emeile sahib bir telebe varsa onun editi bashlanilir Ilk evvel
+    # istifadeciden telebenin hansi fildini edit etmey istediyini sorushur daha sonra secilmish fildi edit etmesi ucun yeni datani isteyiri
+    # Istifadeciye telebenin butun datalarinida eyni anda edit etmey imkanida verilmelidir. sonda butun filder daxil edildikden
+    # sonra  istifadeciye bir secim daha gelmeli ve  edit edilmish datani save  edib etmek istemediyini daxil etmelidir
+# 3 secilibse -->  Email daxil edilir eyer bu emeile sahib bir telebe varsa istifadeciye  
+    # secim veririk heqiqetende silib silmey istemediyini sorushuruq eminem secdikde  telebe  silinir  
+    # eks teqdirde silinme  tamamlanmadi yazilir
+# 4 secilibse --> Ad daxil edilir, daxil edilmish addaki butun telebeler  ekrana cixmalidir
+# 5 secilibse --> Emaili daxil edilmish telebeye  yeni qiymet elav edilmesi (min 1, max 12)
+# 6 secilibse --> Emaili daxil edilmish telebenin butun qiymetlerinin cap edilmesi (example: cavid --> 11, 12, 10)
+# 7 secilibse --> Emaili daxil edilmish telebenin qiymeterinin ortalamasi (example: cavid --> 8.5)
+# 8 secilibse --> Email daxil edilmish  telebenin Istiakini qeyd etmek (1- istirak edir, 0 - qayib)
+# 9 secilibse --> Emaili daxil edilen telebenin qayiblarinin sayi
+# 10 secilibse --> Email daxil edilmish telebenin yashinin oyrenilmesi
+# 11 secilibse --> Email daxil edilmish telebenin Groupunu deishmey. istifadeciye secim verilir (y- beli eminem, n-xeyir)
+# 12 secilibse --> daxil edilmish groupda olan telebelerin siyahisi
+# 13 secilibse --> Emeail daxil edilmish telebenin oxuduqu muddet verilir (example: Cavid -->> 10 il 3 ay 13 gun)
+# 14 secilibse --> Butun telebeler  siyahisi  seliqeli  cixmalidir
+# 0 secilibse --> exit

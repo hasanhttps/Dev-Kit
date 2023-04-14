@@ -1,0 +1,14 @@
+// Hard Questions Answers
+
+// Task 1 ~ Test 2, Error (Zero Division error at line 26).
+// Task 2 ~ Compile-Time Error (Double or Float can't use with mod operator).
+// Task 3 ~ Test 1, Test 2, Test 3, Test 1, Test 2, Test 3, end.
+// Task 4 ~ Test 2, 0, end.
+// Task 5 ~ Test 2, Test 3, Test 4, Test 5.
+// Task 6 ~ Test 1, 1, end.
+
+// Basic Questions Answers
+
+// Task 1 ~ Compile-Time Error (Switch can't work with any float or double type).
+// Task 2 ~ 2, end
+// Task 3 ~ Test 2, Test 5, end

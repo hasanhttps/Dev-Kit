@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(13,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(13,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(54,82): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(55,50): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(56,59): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(57,111): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(58,65): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(59,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(68,79): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(69,47): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(70,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(71,108): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(72,62): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(73,53): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(82,82): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(83,50): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(84,59): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(85,111): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(86,65): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(87,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(98,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(141,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Functions.h(434,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\BattleShip Game\BattleShip Game\Source.cpp(18,10): fatal  error C1083: Cannot open include file: 'Settings.h': No such file or directory

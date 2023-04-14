@@ -1,0 +1,25 @@
+Verilmish bank emeliyyatini tekmilleshdirin...
+
+messaje = '''
+Ashaqidaki Emeliyyatlardan birini secin: 
+    [p]    --   Emeliyyatlarin print edilmesi:
+    [r]    --   AZN balansi artirmaq
+    [k]    --   AZN balansdan pul cixarmaq:
+    [d]    --   DOLLAR balansdan pul cixarmaq
+    [t]    --   AZN to Dollar transver
+    [ab]   --   AZN Balansa baxmaq
+    [db]   --   DOLLAR Balansa baxmaq
+    [e]    --   Exit
+'''
+
+QEYD: Programda bu xususiyyetler olmalidir..
+--Balansi minimum 1 AZN veya dollar artirmaq olar, Daha azinda oz errorunuzu yaradirsiniz
+--Balansdan maxsimum balansda olan qeder pul cixarmaq olar ve minimum 1 AZN veya Dollar  eks halda oz errorunuzu yaradirsiniz
+--AZNBalansdan dollara  hazirki kurs ile pul transfer edilmelidir 0 ve ondan ashaqi meblex daxil etmek olmaz
+--Balansi ekrana cap etmek
+--exit
+
+
+---Balansa pul daxil edilerken veya pul cixarilarken mumkun olan butun ehtimallar ucun
+	Errorlari yaradmali  ve sonra  TRY ve EXCEPT  den istifade ederek bu errorlari tutmalisiniz
+	ki, programiniz cokmesin

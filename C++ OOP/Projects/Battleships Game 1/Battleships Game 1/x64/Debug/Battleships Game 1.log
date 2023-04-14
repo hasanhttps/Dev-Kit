@@ -1,0 +1,37 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(13,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(13,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(44,82): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(45,50): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(46,59): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(47,111): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(48,65): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(49,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(58,79): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(59,47): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(60,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(61,108): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(62,62): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(63,53): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(72,82): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(73,50): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(74,59): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(75,111): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(76,65): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(77,56): warning C4309: '=': truncation of constant value
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(100,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(106,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Functions.h(584,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Settings.h(76,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Settings.h(80,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Animations.h(58,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Animations.h(65,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Animations.h(72,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Animations.h(115,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hasan\source\repos\Battleships Game 1\Battleships Game 1\Source.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Battleships Game 1.vcxproj -> C:\Users\hasan\source\repos\Battleships Game 1\x64\Debug\Battleships Game 1.exe

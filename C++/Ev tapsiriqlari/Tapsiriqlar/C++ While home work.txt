@@ -1,0 +1,6 @@
+1. While-dan istifadə edərək, valyuta Mübadiləsi,  kalkuliyator,mili  kilometre çevirən  programları  sonsuz  dövürdə yazın
+2. Klaviaturadan 10 tam ədəd daxil edilir, mənfi ədədlərin faizini, müsbət ədədlərin faizini və 0-ların faizini tapın.
+3. Klaviaturadan 10 tam ədəd daxil edilir. Cütlərin və təklərin neçə faiz olduğunu hesablayan proqram yazın.
+4. İstənilən ədədin polindrom olub olmamasını yoxlayan proqram yazın.
+
+5. Ədədin faktorialını tapan proqram yazın. (Məsələn (! - faktorial işarəsidir), 5! = 1*2*3*4*5)

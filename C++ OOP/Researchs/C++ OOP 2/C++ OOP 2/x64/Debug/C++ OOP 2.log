@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP 2\C++ OOP 2\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\C++ OOP 2\C++ OOP 2\Source.cpp(13,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++ OOP 2.vcxproj -> C:\Users\hasan\source\repos\C++ OOP 2\x64\Debug\C++ OOP 2.exe

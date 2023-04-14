@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\bin\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..exe
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\bin\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..deps.json
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\bin\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..runtimeconfig.json
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\bin\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..dll
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\bin\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..pdb
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..dll
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\refint\C# Value Type, out, in, keyword, enum etc..dll
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..pdb
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\C# Value Type, out, in, keyword, enum etc..genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\obj\Debug\net6.0\ref\C# Value Type, out, in, keyword, enum etc..dll

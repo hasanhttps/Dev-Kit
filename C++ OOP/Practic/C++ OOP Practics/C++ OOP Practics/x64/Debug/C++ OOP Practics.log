@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP Practics\C++ OOP Practics\Source.cpp(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Practics\C++ OOP Practics\Source.cpp(154,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Practics\C++ OOP Practics\Source.cpp(220,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Practics\C++ OOP Practics\Source.cpp(234,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ OOP Practics.vcxproj -> C:\Users\hasan\source\repos\C++ OOP Practics\x64\Debug\C++ OOP Practics.exe

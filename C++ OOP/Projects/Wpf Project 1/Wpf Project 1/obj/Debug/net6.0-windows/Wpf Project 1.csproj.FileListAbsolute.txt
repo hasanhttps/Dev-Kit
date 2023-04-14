@@ -1,0 +1,42 @@
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.exe
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.deps.json
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.runtimeconfig.json
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.dll
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.pdb
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1_MarkupCompile.cache
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1_MarkupCompile.lref
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.g.resources
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.dll
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\refint\Wpf Project 1.dll
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.pdb
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\ref\Wpf Project 1.dll
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.exe
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.dll
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\bin\Debug\net6.0-windows\Wpf Project 1.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1_MarkupCompile.cache
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1_MarkupCompile.lref
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.g.resources
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.dll
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\refint\Wpf Project 1.dll
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\Wpf Project 1.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Dev Kit\C++ OOP\Projects\Wpf Project 1\Wpf Project 1\obj\Debug\net6.0-windows\ref\Wpf Project 1.dll

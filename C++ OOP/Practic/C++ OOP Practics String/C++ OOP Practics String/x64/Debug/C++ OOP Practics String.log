@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\C++ OOP Practics String\C++ OOP Practics String\Source.cpp(57,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Practics String\C++ OOP Practics String\Source.cpp(79,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\C++ OOP Practics String\C++ OOP Practics String\Source.cpp(98,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C++ OOP Practics String.vcxproj -> C:\Users\hasan\source\repos\C++ OOP Practics String\x64\Debug\C++ OOP Practics String.exe

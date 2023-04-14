@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\OOP 1\OOP 1\Source.cpp(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 1\OOP 1\Source.cpp(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOP 1.vcxproj -> C:\Users\hasan\source\repos\OOP 1\x64\Debug\OOP 1.exe

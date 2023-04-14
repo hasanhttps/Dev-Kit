@@ -1,0 +1,15 @@
+menu = """
+        [1]   --> yeni telebe elave etmey
+        [2]   --> Secilmish telebeni Edit etmey
+        [3]   --> Secilmish telebeni silmey
+        [4]   --> Ada  gore searching
+        [5]   --> Email daxil edilmish telebenin yashinin oyrenilmesi
+        [6]   --> Eyni groupda olan telebelerin siyahisi
+        [7]   --> butun telebeler
+        [8]   --> Email daxil edilen Telebenin  ishtiraqini qeyd etmek 
+        [9]   --> qayiblarin  sayi
+        [0]   --> EXIT
+"""
+
+
+dersde  ishlediyimiz  practikani  bitirin

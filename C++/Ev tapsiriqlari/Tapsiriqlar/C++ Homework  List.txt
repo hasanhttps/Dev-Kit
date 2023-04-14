@@ -1,0 +1,23 @@
+# 1-  "Samsung S5,Samsung S6,Samsung S7,Samsung S8" elementlerne sahib bir list yaradin.
+
+# 2-  Listin nece elementi var ?
+
+# 3-  Listenin ilk ve son elementi nedir ?
+
+# 4-  "Samsung S5" elementini "Samsung S9" ile deyishin.
+
+# 5-  "Samsung S6" listin bir elementidir ?
+
+# 6-  Listin -3 indeksindeki deyeri nedir ?
+
+# 7-  Listin ilk 2 dene elementini alın.
+
+# 8-  Listin son 2 elementinin yerine "Samsung S9" ve "Samsung S10" deyerleri ile evez edin.
+
+# 9-  Listin üzerine "IPhone X" ve "IPhone XR" deyerlerini elave edin.
+
+# 10- Listenin son elementini silin.
+
+# 11- Listin elementlerni tersden yazdırın.
+
+# 13- Listin elementlerni ekrana yazdırın.

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(35,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(43,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(51,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(67,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(73,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\OOP 2 Practics\OOP 2 Practics\OUF.h(206,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOP 2 Practics.vcxproj -> C:\Users\hasan\source\repos\OOP 2 Practics\x64\Debug\OOP 2 Practics.exe

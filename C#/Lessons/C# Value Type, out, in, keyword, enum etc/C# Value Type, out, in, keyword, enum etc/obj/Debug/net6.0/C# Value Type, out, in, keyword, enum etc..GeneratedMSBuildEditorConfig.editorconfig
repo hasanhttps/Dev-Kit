@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C__Value_Type__out__in__keyword__enum_etc_
+build_property.ProjectDir = C:\Users\hasan\source\repos\C# Value Type, out, in, keyword, enum etc\C# Value Type, out, in, keyword, enum etc\

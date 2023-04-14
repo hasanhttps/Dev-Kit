@@ -1,0 +1,20 @@
+# # 1) colors tuple yaradirsiz, en azi 5 reng
+# # 2) brands listi yaradirsiz, en azi 5 brand
+# # 3) yaradilan her brand listine gore en azi 5 model olan list yaradin.
+# # 4) olcusu 50 olan cars adinda dictionary yaratmaq lazimdir,
+# #   key-leri 1-den bashlayaraq artmalidir ve
+# #   value-lari ise dictionary olmalidir, hemin dictionary-in key ve value-lari,
+# #   colors, brands, models collection-larindan random sechilmelidir.
+# # QEYD: Her bir brand-in model-leri aid oldugu branda gore random secilmelidir.
+# # 5) Elave olaraq, year key-i olmalidir, 2010-2020 arasi random shekilde olmalidir.
+# #
+# #
+# # MESELEN:
+# cars = {
+#  1:{
+#      'brand' : 'BMW',
+#      'model' : 'X6',
+#      'color' : 'Black',
+#      'year' : 2020,
+#  },
+# }
