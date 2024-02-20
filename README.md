@@ -15,6 +15,9 @@ Explore a diverse range of technologies and programming languages, including:
   - Front-end development with HTML and CSS
   - WPF (Windows Presentation Foundation)
   - WinForms
+  
+- **Object-Oriented Programming (OOP):**
+  - Principles and methodologies applied across languages
 
 - **Database Technologies:**
   - ADO.NET
