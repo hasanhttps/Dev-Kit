@@ -1,7 +1,5 @@
 import os
-
 import time
-
 
 while True:
     secim = input("Zehmet olmasa asagidakilardan birini secin ;\n\n[y] -- |new game|\n[e] -- |exit    | -- ")

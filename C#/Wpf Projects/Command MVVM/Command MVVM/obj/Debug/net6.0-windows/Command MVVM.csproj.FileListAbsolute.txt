@@ -1,0 +1,21 @@
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\bin\Debug\net6.0-windows\Command MVVM.exe
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\bin\Debug\net6.0-windows\Command MVVM.deps.json
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\bin\Debug\net6.0-windows\Command MVVM.runtimeconfig.json
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\bin\Debug\net6.0-windows\Command MVVM.dll
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\bin\Debug\net6.0-windows\Command MVVM.pdb
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM_MarkupCompile.cache
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM_MarkupCompile.lref
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.g.resources
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.dll
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\refint\Command MVVM.dll
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.pdb
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\Command MVVM.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\source\repos\Command MVVM\Command MVVM\obj\Debug\net6.0-windows\ref\Command MVVM.dll

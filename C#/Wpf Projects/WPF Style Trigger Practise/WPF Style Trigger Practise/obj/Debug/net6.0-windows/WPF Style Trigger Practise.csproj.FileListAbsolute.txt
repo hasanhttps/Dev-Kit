@@ -1,0 +1,21 @@
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\bin\Debug\net6.0-windows\WPF Style Trigger Practise.exe
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\bin\Debug\net6.0-windows\WPF Style Trigger Practise.deps.json
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\bin\Debug\net6.0-windows\WPF Style Trigger Practise.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\bin\Debug\net6.0-windows\WPF Style Trigger Practise.dll
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\bin\Debug\net6.0-windows\WPF Style Trigger Practise.pdb
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.g.resources
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.dll
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\refint\WPF Style Trigger Practise.dll
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.pdb
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\WPF Style Trigger Practise.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Style Trigger Practise\WPF Style Trigger Practise\obj\Debug\net6.0-windows\ref\WPF Style Trigger Practise.dll

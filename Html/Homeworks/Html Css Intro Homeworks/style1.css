@@ -1,0 +1,23 @@
+body{
+    font-family: "Avenir LT Pro 85 Heavy";
+}
+
+#h1tag{
+    font-size: 60px;
+    margin-top: -10px;
+}
+
+#h2tag{
+    color: #9F9F9F;
+}
+
+#ptag{
+    color: #515151;
+    text-align: justify;
+    width: 280px;
+    font-size: 15px;
+}
+
+#img{
+   width: 280px; 
+}

@@ -1,0 +1,22 @@
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\Reading Data From DB To Class.exe
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\Reading Data From DB To Class.deps.json
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\Reading Data From DB To Class.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\Reading Data From DB To Class.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\Reading Data From DB To Class.pdb
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\refint\Reading Data From DB To Class.dll
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.pdb
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\Reading Data From DB To Class.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Reading Data From DB To Class\Reading Data From DB To Class\obj\Debug\net6.0\ref\Reading Data From DB To Class.dll

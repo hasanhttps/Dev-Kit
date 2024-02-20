@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\bin\Debug\net6.0\ClientUdp.exe
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\bin\Debug\net6.0\ClientUdp.deps.json
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\bin\Debug\net6.0\ClientUdp.runtimeconfig.json
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\bin\Debug\net6.0\ClientUdp.dll
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\bin\Debug\net6.0\ClientUdp.pdb
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.AssemblyInfo.cs
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.dll
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\refint\ClientUdp.dll
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.pdb
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ClientUdp.genruntimeconfig.cache
+C:\Users\hasan\source\repos\NetworkUdpSocket Practise\ClientUdp\obj\Debug\net6.0\ref\ClientUdp.dll

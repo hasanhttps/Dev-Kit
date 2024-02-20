@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\bin\Debug\net6.0\Research Send mail'.exe
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\bin\Debug\net6.0\Research Send mail'.deps.json
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\bin\Debug\net6.0\Research Send mail'.runtimeconfig.json
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\bin\Debug\net6.0\Research Send mail'.dll
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\bin\Debug\net6.0\Research Send mail'.pdb
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.dll
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\refint\Research Send mail'.dll
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.pdb
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\Research Send mail'.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Research Send mail'\Research Send mail'\obj\Debug\net6.0\ref\Research Send mail'.dll

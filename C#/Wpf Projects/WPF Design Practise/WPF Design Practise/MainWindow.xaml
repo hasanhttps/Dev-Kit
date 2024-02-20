@@ -1,0 +1,40 @@
+﻿<Window x:Class="WPF_Design_Practise.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:WPF_Design_Practise"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Red">
+        <StackPanel>
+            <Border Background="#FDFDFD" CornerRadius="10" Padding="10" Width="500" Margin="15">
+                <Grid>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                        <Border Width="60" Height="60" CornerRadius="30" Margin="15 0 10 0">
+                            <Border.Background>
+                                <ImageBrush ImageSource="Images/user.jpg" Stretch="Fill"/>
+                            </Border.Background>
+                        </Border>
+
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBlock Text="Hesen Abdullazade" FontSize="16" FontWeight="Bold" Foreground="Gray"/>
+                            <TextBlock Text="Baku, Azerbaijan" Foreground="#8f8f8f"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center">
+                        <Button Style="{StaticResource saveButton}" >
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="BookmarkOutline" Height="20"/>
+                                <TextBlock Text="Save Profile" Margin="10 0 0 0"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>

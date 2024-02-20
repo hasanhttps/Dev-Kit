@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\hasan\source\repos\Cinema Struct\Cinema Struct\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\hasan\source\repos\Cinema Struct\Cinema Struct\Source.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\hasan\source\repos\Cinema Struct\Cinema Struct\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\hasan\source\repos\Cinema Struct\Cinema Struct\Source.cpp(12,127): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\hasan\source\repos\Cinema Struct\Cinema Struct\Source.cpp(16,127): warning C4305: 'argument': truncation from 'double' to 'float'
-  Cinema Struct.vcxproj -> C:\Users\hasan\source\repos\Cinema Struct\x64\Debug\Cinema Struct.exe

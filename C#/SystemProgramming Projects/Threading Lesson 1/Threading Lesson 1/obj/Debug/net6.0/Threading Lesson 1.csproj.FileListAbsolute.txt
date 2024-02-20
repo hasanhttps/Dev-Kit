@@ -1,0 +1,23 @@
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Threading Lesson 1.exe
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Threading Lesson 1.deps.json
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Threading Lesson 1.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Threading Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Threading Lesson 1.pdb
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\refint\Threading Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.pdb
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\Threading Lesson 1.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\obj\Debug\net6.0\ref\Threading Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Threading Lesson 1\Threading Lesson 1\bin\Debug\net6.0\Harry_Potter_-_More_potions_-_www.BiG.AZ.wav

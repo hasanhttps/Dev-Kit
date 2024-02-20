@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJXaC9+4AXdTB8w77iAyB5kIyNbg1J5YaCfvo9zkZZBcR0makaDStIPd9iWZfGHQFu7hMS8NGo1YYeSaas1oMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\Turbo az Scraping\\Turbo az Scraping\\Turbo az Scraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

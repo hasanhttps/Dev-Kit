@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmSjKoX3ONmyIm3gfbdQ5HDs4+BT71x9mcAHnWLeLs3CgeD3iQlNOMq33M9VlWi+V/7ngfoOvCcDkMzwDJHZAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\WPF Video Streaming Research\\WPF Video Streaming Research\\WPF Video Streaming Research.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}

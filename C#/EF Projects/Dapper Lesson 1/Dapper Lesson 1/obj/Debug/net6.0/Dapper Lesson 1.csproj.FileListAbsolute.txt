@@ -1,0 +1,23 @@
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper Lesson 1.exe
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper Lesson 1.deps.json
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper Lesson 1.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper Lesson 1.pdb
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\Dapper.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\refint\Dapper Lesson 1.dll
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.pdb
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\Dapper Lesson 1.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Final Projects\Dapper Lesson 1\Dapper Lesson 1\obj\Debug\net6.0\ref\Dapper Lesson 1.dll

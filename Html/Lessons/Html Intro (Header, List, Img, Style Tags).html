@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>First Html Lesson</title>
+</head>
+<body>
+ 
+    <!--TAGS-->
+ 
+    <!-- h => Header tags h1 - h6 differ from their size bigger to smaller.
+         First there was no css that's why this header tags created.-->
+ 
+    <h1>404 Error</h1>
+    <h3>Server error.</h3>
+ 
+    <!--Paragraph-->
+ 
+    <p>
+        Paragraph Tag
+    </p>
+   
+    <p> <!--Default olaraq yan yana cixarir. Eger break(br) tagi isletsek alt-alta block kimi
+         yaza bileceyik.-->
+ 
+        Lesson One Html <br> <!--Mutleq isdediyimiz setirden yazmaliyiq-->
+        <span>Inline taglarin olcusu icindeki textin olcusu qederdir.</span>
+        <span>Inline</span> <br> <!--Oldugu setirden devam  edir butun setiri tutmur.-->
+        Salam
+    </p>
+ 
+    <!--Pre-->
+ 
+    <pre> <!--Burada avtomatik olarak blok kimidir her setirde br yazmaga ehtiyyac yoxdur.
+         Nece yazmisiqsa elede gorsenir bosluqlari bele sayir.-->
+Salam
+    necesen
+        dosdum?
+    </pre>
+ 
+    <!--
+        If we want change format of text we can use:
+        1) Bold    =>  b (bold)
+        2) Strong  =>  strong (bold)
+        3) U       =>  Underline
+        4) I       =>  Italic
+    -->
+ 
+    <p>
+        <h3>SƏNİ  AXTARIRAM</h3>
+ 
+        Köçüb qonşuluqdan hayana <u><i><b>getdin?</b></i></u> <br>
+        <strong>Kəpəzmi</strong>, Qoşqarmı oldu məskənin <br>
+        Yoxsa onlardan da o <u>yana getdin?</u> <br>
+    </p>
+ 
+    <!--Index-->
+ 
+    H<sub>2</sub>O <br>
+    x<sup>2</sup> + y<sup>2</sup> = c<sup>2</sup>
+ 
+    <!--Attributes  =>  Without using css giving tag attributes
+       
+        Align => Assigning content of text horizontal.
+        Valign => Assigning content of text
+    -->
+ 
+    <p align="Center"> <!--We can give left, right, center, and justify as parametr.-->
+        Content of text <br>
+    </p>
+ 
+    <p align="justify"> <!--Correcting left and right point of text.-->
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae deserunt sunt omnis consequatur voluptatibus eum non molestias dignissimos voluptatem animi iusto exercitationem assumenda nesciunt quaerat, explicabo libero porro pariatur quo!
+    </p>
+ 
+    <hr size="3" color="red" width="450"/> <!--It's horizontal line. We can write px it's not necessary.-->
+    <hr size="3" color="red" width="60%"/>
+ 
+    <!--Images-->
+ 
+    <img src="https://c4.wallpaperflare.com/wallpaper/162/423/587/science-nerds-simple-background-minimalism-wallpaper-preview.jpg" alt=""/>
+    <img src="Capture.png" width="750" alt="" align="left" hspace="3" vspace="3"/> <br>
+ 
+    <p align="justify">
+        Yazilar sagdan gelmelidir. Check for text alignment
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias voluptate eos perspiciatis ut,
+        quae velit nesciunt pariatur minus mollitia dignissimos harum soluta dolore voluptas nostrum porro
+        sunt eligendi autem illum. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas illum
+        temporibus dolores mollitia magni repudiandae atque dolore necessitatibus suscipit quidem provident,
+        aut soluta id perferendis ab. Dolorem, ab vero! Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Nostrum, quas distinctio, non saepe suscipit ullam cumque temporibus corrupti magnam repudiandae iste
+        cupiditate repellat dolorum asperiores debitis incidunt rerum totam ab.
+    </p>
+ 
+    <!--List-->
+ 
+    <h3>Unordered List</h3>
+ 
+    <!--Unordered List-->
+ 
+    <ul> <!--It's block element-->
+        <li>Item 1</li> <!--We can give type none for making list without point.-->
+        Item Liberal <!--Also we can do it with typing without li tag.-->
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+ 
+   
+    <h3>Ordered List</h3>
+ 
+    <!--Order List-->
+   
+    <ol type="1"> <!--We can't give type none. If we want it is logical to use unordered list.-->
+        <li>Qarpuz</li>
+        <li>Yemis</li>
+        <li>Xiyar</li>
+    </ol>
+ 
+    <h3>Description List</h3>
+ 
+    <!--Description List-->
+ 
+    <dl>
+        <dt>H Tag</dt>
+        <dd>H  =>  Header tags h1 - h6 differ from their size bigger to smaller.
+            First there was no css that's why this header tags created.</dd>
+            <!--dt and dd use together for giving assign one li.-->
+        <dt>P Tag</dt>
+        <dd>P  =>  Default olaraq yan yana cixarir. Eger break(br) tagi isletsek alt-alta block kimi
+            yaza bileceyik.</dd>
+            <!--dt and dd use together for giving assign one li.-->
+    </dl>
+    <br>
+ 
+    <!--Practise-->
+ 
+    <ol start="1"> <!--Giving start we can define for in wich number we can start order.-->
+        <li>Fruit</li>
+        <li type="none">
+            <ul type="circle">
+                <li>Apples</li>
+                <li>Oranges</li>
+                <li>Pinaples</li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>

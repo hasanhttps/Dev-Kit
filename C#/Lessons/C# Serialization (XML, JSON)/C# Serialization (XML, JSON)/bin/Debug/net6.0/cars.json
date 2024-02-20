@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Vendor": "Tesla",
+    "Maker": "Model 3"
+  },
+  {
+    "Id": 2,
+    "Vendor": "Aston Martin",
+    "Maker": "Rapid"
+  },
+  {
+    "Id": 3,
+    "Vendor": "Pajero",
+    "Maker": "Sport"
+  }
+]

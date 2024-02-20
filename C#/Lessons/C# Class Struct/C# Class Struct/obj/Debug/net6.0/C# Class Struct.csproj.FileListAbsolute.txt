@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\bin\Debug\net6.0\C# Class Struct.exe
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\bin\Debug\net6.0\C# Class Struct.deps.json
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\bin\Debug\net6.0\C# Class Struct.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\bin\Debug\net6.0\C# Class Struct.dll
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\bin\Debug\net6.0\C# Class Struct.pdb
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.dll
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\refint\C# Class Struct.dll
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.pdb
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\C# Class Struct.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Class Struct\C# Class Struct\obj\Debug\net6.0\ref\C# Class Struct.dll

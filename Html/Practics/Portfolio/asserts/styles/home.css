@@ -1,0 +1,335 @@
+/* way 1 */
+/* @import url('https://fonts.googleapis.com/css2?family=Heebo&family=Raleway&display=swap'); */
+
+
+/* way 2 */
+/* @import url('../fonts/Heebo/Heebo-VariableFont_wght.ttf'); */
+
+
+
+/* way 3 */
+@font-face {
+    font-family: 'Heebo';
+    src: url('../fonts/Heebo/Heebo-VariableFont_wght.ttf');
+}
+
+/* Page-in  default deyerlerinin 0-lanmasi. OZumuz ucun */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header nav img {
+    display: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    font-style: inherit;
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+    color: #21243D;
+    background-color: white;
+}
+
+.up {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+/* --------------------------------------------------------------------------------- */
+/* Header css start */
+header {
+    width: 100%;
+    padding: 27px 60px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 999;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+
+header nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 500;
+    gap: 30px;
+}
+
+
+header nav ul li a {
+    transition-duration: 0.3s;
+}
+
+header nav ul li a:hover {
+    color: #00A8CC;
+}
+
+/* Header css end */
+
+/* ---------------------------------------------------------------------- */
+/* Section 1 Start */
+
+main {
+    margin-top: 240px;
+}
+
+main .resume {
+    display: flex;
+    flex-direction: row;
+    padding: 0 150px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 70px;
+}
+
+main .resume .resume-info {
+    width: 500px;
+}
+
+main .resume img {
+    filter: drop-shadow(10px 10px 0 #EDF7FA);
+    padding-left: 50px;
+}
+
+main .resume .resume-info h1 {
+
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+main .resume .resume-info p {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 40px 0;
+}
+
+main .resume .resume-info button {
+    color: white;
+    border-radius: 2px;
+    background-color: #FF6464;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    padding: 13px 20px;
+
+    transition-duration: 0.3s;
+}
+
+
+main .resume .resume-info button:hover {
+    background-color: #00A8CC;
+    cursor: pointer;
+}
+
+/* Section 1 End */
+
+/*------------------------------------------------------------------------- */
+
+/* Section 2 Start (Posts) */
+main .posts-section {
+    background-color: #EDF7FA;
+    width: 100%;
+}
+
+
+main .posts-section div {
+    padding: 40px 150px;
+    color: #21243D;
+}
+
+
+main .posts-section div .popsts-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+main .posts-section div .popsts-link .recent-posts {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+
+main .posts-section div .popsts-link .view-all {
+    color: #00A8CC;
+    font-size: 16px;
+    font-weight: 400;
+    transition-duration: 0.3s;
+
+}
+
+main .posts-section div .popsts-link .view-all:hover {
+    color: #FF6464;
+    cursor: pointer;
+}
+
+main .posts-section div .posts {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+main .posts-section div .posts li {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 22px;
+    background-color: white;
+
+}
+
+main .posts-section div .posts li h2 {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+
+main .posts-section div .posts li span {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+main .posts-section div .posts li p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Section 2 END (Posts) */
+
+
+/*------------------------------------------------------------------------- */
+
+/* Section 3 Start */
+main .featured-works {
+    padding: 15px 150px 80px 150px;
+    color: #21243D;
+
+}
+
+
+main .featured-works #featured-works {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 60px;
+    padding-left: 20px;
+}
+
+
+main .featured-works .work-list .work-item {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 20px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+main .featured-works .work-list .work-item .work-description {
+    display: flex;
+    flex-direction: column;
+    padding-left: 18px;
+    justify-content: space-around;
+
+}
+
+
+main .featured-works .work-list .work-item .work-description .work-header h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+main .featured-works .work-list .work-item .work-description .year-theme .year {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 16px;
+    background-color: #142850;
+    padding: 0 10px;
+}
+
+main .featured-works .work-list .work-item .work-description .year-theme .theme {
+    color: #8695A4;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 26px;
+}
+
+main .featured-works .work-list .work-item .work-description .work-text p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Section 3 END */
+
+/* -------------------------------------------------------------------------- */
+/* footer start */
+footer {
+    padding: 50px 0;
+    margin: auto;
+}
+
+footer nav {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 35px;
+}
+
+footer nav .copyright {
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+
+footer nav ul li a img {
+    transition-duration: 0.3s;
+    transform: scale(1);
+}
+
+footer nav ul li a img:hover {
+    transform: scale(1.5);
+    filter: contrast(5);
+}
+
+/* footer end */
+
+/* ----------------------------------------------------------------------------------------------------------------------------------- */
+/* Media Queries Start */
+
+

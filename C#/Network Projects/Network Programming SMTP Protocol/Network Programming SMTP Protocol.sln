@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Network Programming SMTP Protocol", "Network Programming SMTP Protocol\Network Programming SMTP Protocol.csproj", "{BDEFC5A1-B8C0-499A-81D6-D43FD2B5CBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Programming IMAP Protocol", "Network Programming IMAP Protocol\Network Programming IMAP Protocol.csproj", "{A8923ABC-5267-4F65-9096-E5CF49FE7998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Programming POP3 Protocol", "Network Programming POP3 Protocol\Network Programming POP3 Protocol.csproj", "{F6B671FC-935F-4793-850F-AA342F58E416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEFC5A1-B8C0-499A-81D6-D43FD2B5CBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEFC5A1-B8C0-499A-81D6-D43FD2B5CBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEFC5A1-B8C0-499A-81D6-D43FD2B5CBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEFC5A1-B8C0-499A-81D6-D43FD2B5CBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8923ABC-5267-4F65-9096-E5CF49FE7998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8923ABC-5267-4F65-9096-E5CF49FE7998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8923ABC-5267-4F65-9096-E5CF49FE7998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8923ABC-5267-4F65-9096-E5CF49FE7998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B671FC-935F-4793-850F-AA342F58E416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B671FC-935F-4793-850F-AA342F58E416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B671FC-935F-4793-850F-AA342F58E416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B671FC-935F-4793-850F-AA342F58E416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAE7C53-80F9-4575-95C8-5286D5F5F8CF}
+	EndGlobalSection
+EndGlobal

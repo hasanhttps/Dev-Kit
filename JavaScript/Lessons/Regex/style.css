@@ -1,0 +1,14 @@
+#registration{
+    background-color: bisque;
+    width: 500px;
+    padding: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.t1{
+    color: black;
+}

@@ -1,0 +1,87 @@
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.exe
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.deps.json
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.runtimeconfig.json
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.Form1.resources
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.GenerateResource.cache
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\refint\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\source\repos\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\ref\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.exe
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.deps.json
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.runtimeconfig.json
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.Form1.resources
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.GenerateResource.cache
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.CopyComplete
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\refint\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\ref\DbProviderFactoryLesson.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\atamoghlanov_j\Desktop\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.exe
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.deps.json
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.runtimeconfig.json
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.Form1.resources
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.GenerateResource.cache
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\refint\DbProviderFactoryLesson.dll
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.pdb
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\DbProviderFactoryLesson.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\DbProviderFactoryLesson\DbProviderFactoryLesson\obj\Debug\net6.0-windows\ref\DbProviderFactoryLesson.dll

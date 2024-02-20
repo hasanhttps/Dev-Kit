@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\bin\Debug\net6.0\Broadcast Receiver.exe
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\bin\Debug\net6.0\Broadcast Receiver.deps.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\bin\Debug\net6.0\Broadcast Receiver.runtimeconfig.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\bin\Debug\net6.0\Broadcast Receiver.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\bin\Debug\net6.0\Broadcast Receiver.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\refint\Broadcast Receiver.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\Broadcast Receiver.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Broadcast Receiver\obj\Debug\net6.0\ref\Broadcast Receiver.dll

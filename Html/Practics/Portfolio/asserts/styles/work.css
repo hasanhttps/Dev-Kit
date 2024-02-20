@@ -1,0 +1,190 @@
+/*!Default*/
+
+@font-face {
+    font-family: 'Heebo';
+    src: url('../fonts/Heebo/Heebo-VariableFont_wght.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    font-style: inherit;
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+    color: #21243D;
+    background-color: white;
+}
+
+@media screen and (max-width:768px) {
+    header nav ul{
+        visibility: collapse;
+        align-items: center;
+    }
+    header nav img{
+        visibility: visible;
+        width: 375px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    header nav img{
+        visibility: collapse;
+        width: 0;
+    }
+}
+
+/*!Header*/
+
+header {
+    width: 100%;
+    padding: 27px 60px;
+}
+
+
+header nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 500;
+    gap: 30px;
+}
+
+
+header nav ul li a {
+    transition-duration: 0.3s;
+}
+
+header nav ul li a:hover {
+    color:#FF6464;
+}
+
+/*!Header End*/
+
+
+/*!Main*/
+
+main{
+    margin-top: 90px;
+    width: 682px;
+    margin-left: 619px;
+    margin-right: 619px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main .head-section .t1{
+    width: 682px;
+    height: 69px;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    margin-bottom: 25px;
+}
+
+
+main .work-list-section .work-list .work-item {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 37px;
+    margin-bottom: 45px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+main .work-list-section .work-list .work-item .work-description {
+    display: flex;
+    flex-direction: column;
+    padding-left: 18px;
+    justify-content: space-around;
+}
+
+
+main .work-list-section .work-list .work-item .work-description .work-header h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+main .work-list-section .work-list .work-item .work-description .year-theme .year {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 16px;
+    background-color: #142850;
+    padding: 0 10px;
+}
+
+main .work-list-section .work-list .work-item .work-description .year-theme .theme {
+    color: #8695A4;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 26px;
+}
+
+main .work-list-section .work-list .work-item .work-description .work-text p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*!Main End*/
+
+/*!Footer*/
+
+footer {
+    padding: 50px 0;
+    margin: auto;
+}
+
+footer nav{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 35px;
+}
+
+footer nav .copyright {
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+
+footer nav ul li a img {
+    transition-duration: 0.3s;
+    transform: scale(1);
+}
+
+footer nav ul li a img:hover {
+    transform: scale(1.5);
+    filter: contrast(5);
+}
+
+/*!Footer End*/

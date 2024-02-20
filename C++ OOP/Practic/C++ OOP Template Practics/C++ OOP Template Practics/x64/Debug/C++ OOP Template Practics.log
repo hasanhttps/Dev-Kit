@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\hasan\source\repos\C++ OOP Template Practics\C++ OOP Template Practics\Source.cpp(146): warning C4715: 'Database::getByUsername': not all control paths return a value
-  C++ OOP Template Practics.vcxproj -> C:\Users\hasan\source\repos\C++ OOP Template Practics\x64\Debug\C++ OOP Template Practics.exe

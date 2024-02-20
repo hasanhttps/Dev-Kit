@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WPF_Button_Style_Homework</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="icons\icons8-x-50.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="App.xaml" />
+    <ApplicationDefinition Include="AssemblyInfo.cs" />
+  </ItemGroup>
+
+</Project>

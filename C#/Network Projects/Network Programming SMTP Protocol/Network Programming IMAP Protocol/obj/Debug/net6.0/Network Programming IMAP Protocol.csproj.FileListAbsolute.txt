@@ -1,0 +1,24 @@
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\Network Programming IMAP Protocol.exe
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\Network Programming IMAP Protocol.deps.json
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\Network Programming IMAP Protocol.runtimeconfig.json
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\Network Programming IMAP Protocol.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\Network Programming IMAP Protocol.pdb
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\MailKit.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\MimeKit.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.csproj.CopyComplete
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\refint\Network Programming IMAP Protocol.dll
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.pdb
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\Network Programming IMAP Protocol.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Network Programming SMTP Protocol\Network Programming IMAP Protocol\obj\Debug\net6.0\ref\Network Programming IMAP Protocol.dll

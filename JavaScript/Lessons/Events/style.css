@@ -1,0 +1,33 @@
+body{
+    background-color: #F4F4F4;
+}
+
+#task2{
+    height: 1080px;
+    width: 1920px;
+}
+
+button{
+    height: 40px;
+    width: 200px;
+}
+
+#tabs div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 800px;
+    border: 1px solid gray;
+}
+
+.news{
+    display: flex;
+}
+
+.news .new div{
+    background: gray;
+    margin: 10px;
+    height: 150px;
+    width: 250px;
+}

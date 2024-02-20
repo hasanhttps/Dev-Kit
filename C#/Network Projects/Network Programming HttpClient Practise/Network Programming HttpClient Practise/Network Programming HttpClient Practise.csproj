@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Network_Programming_HttpClient_Practise</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\images %281%29.jpeg" />
+    <None Remove="Images\images.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\images (1).jpeg" />
+    <Resource Include="Images\images.jpeg" />
+  </ItemGroup>
+
+</Project>

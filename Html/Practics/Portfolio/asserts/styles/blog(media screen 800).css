@@ -1,0 +1,35 @@
+header{
+    height: 83px;
+}
+
+header{
+    padding: 17px 67px;
+}
+
+header nav ul{
+    visibility: collapse;
+    align-items: center;
+}
+
+header nav img{
+    visibility: visible;
+    width: 375px;
+}
+
+main{
+    width: 80%;
+}
+
+section{
+    width: 80%;
+}
+
+main .t4{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.line{
+    width: 80%;
+}

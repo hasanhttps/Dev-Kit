@@ -1,0 +1,50 @@
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\ADO Introduction.exe
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\ADO Introduction.deps.json
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\ADO Introduction.runtimeconfig.json
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\ADO Introduction.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\ADO Introduction.pdb
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.csproj.CopyComplete
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\refint\ADO Introduction.dll
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.pdb
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ADO Introduction.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\ADO Introduction\ADO Introduction\obj\Debug\net6.0\ref\ADO Introduction.dll

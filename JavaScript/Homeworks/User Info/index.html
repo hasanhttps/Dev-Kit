@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info</title>
+</head>
+<body>
+    
+    <div class="center">
+        <form id="registration" method="get">
+            <p class="header">User Info</p>
+    
+            <p class="t1">First Name: <span style="margin-left: 100px;" id="email-error">Wrong first name</span></p>
+            <input name="firstname" id="firstname" type="text" required>
+
+            <p class="t1">Last Name: <span style="margin-left: 100px;" id="email-error">Wrong last name</span></p>
+            <input name="lastname" id="lastname" type="text" required>
+
+            <p class="t1">Year of Birth: <span style="margin-left: 100px;" id="email-error">Wrong birth Year</span></p>
+            <input name="birthyear" id="birthyear" type="number" required>
+
+            <p class="t1">Gender: <span id="password-error" style="margin-left: 100px;">Wrong gender</span></p>
+            <select name="gender" id="gender">
+                <option>Male</option>
+                <option>Female</option>
+                <option>Non-Binary</option>
+            </select>
+
+            <p class="t1">Phone number: <span id="confirm-error" style="margin-left: 100px;">Wrong phone number</span></p>
+            <input name="phone" id="phone" type="number" required>
+
+            <p class="t1">Skype:</p>
+            <input name="skype" id="skype" type="number" required>
+    
+            <input name="submited" id="submitbt" type="submit" placeholder="Save">
+        </form>
+
+        <div id="infos">
+
+        </div>
+    </div>
+</body>
+
+<script src="index.js"></script>
+</html>

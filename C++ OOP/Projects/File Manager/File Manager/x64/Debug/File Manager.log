@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Users\hasan\source\repos\File Manager\File Manager\Functions.h(67,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\File Manager\File Manager\Functions.h(83,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\File Manager\File Manager\Functions.h(138,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hasan\source\repos\File Manager\File Manager\Functions.h(146,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  File Manager.vcxproj -> C:\Users\hasan\source\repos\File Manager\x64\Debug\File Manager.exe

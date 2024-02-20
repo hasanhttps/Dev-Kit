@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\bin\Debug\net6.0\C# Anonym Functions.exe
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\bin\Debug\net6.0\C# Anonym Functions.deps.json
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\bin\Debug\net6.0\C# Anonym Functions.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\bin\Debug\net6.0\C# Anonym Functions.dll
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\bin\Debug\net6.0\C# Anonym Functions.pdb
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.dll
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\refint\C# Anonym Functions.dll
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.pdb
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\C# Anonym Functions.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Anonym Functions\C# Anonym Functions\obj\Debug\net6.0\ref\C# Anonym Functions.dll

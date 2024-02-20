@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVubyp2qArg+4suoJq5kWa/EiS3za5ssbreppf/3sUPrBe4NMhLY7TRaTvr/L4zXxmAcg1XOX0xMzGTmqU3KYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\WPF Scrape Movie Link\\WPF Scrape Movie Link\\WPF Scrape Movie Link.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\htmlagilitypack\\1.11.49\\htmlagilitypack.1.11.49.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}

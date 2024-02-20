@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Scrape Movie Link", "WPF Scrape Movie Link\WPF Scrape Movie Link.csproj", "{EFEFCD88-6DE9-4A1B-8290-AA163AB0387B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEFCD88-6DE9-4A1B-8290-AA163AB0387B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEFCD88-6DE9-4A1B-8290-AA163AB0387B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEFCD88-6DE9-4A1B-8290-AA163AB0387B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEFCD88-6DE9-4A1B-8290-AA163AB0387B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E71622-4181-42D3-91C8-57AB906B6CFC}
+	EndGlobalSection
+EndGlobal

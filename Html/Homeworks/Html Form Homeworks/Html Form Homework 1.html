@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Form Homework 1</title>
+</head>
+<body bgcolor="#A22B56">
+    
+    <table border="0" valign="center" width="500" cellspacing="0" cellpadding="10" bgcolor="#74203E" align="center" cellpadding="10">
+
+        <tr bgcolor="#74203E" align="center">
+            <td>
+                <table border="0" cellspacing="0" cellpadding="5">
+                    <tr>
+                        <td><label for="name" style="color: white;">Name:</label></td>
+                        <td><input type="text" id="name" name="name" placeholder="your name"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><label for="email" style="color: white;">Email:</label></td>
+                        <td><input type="email" id="email" name="email" placeholder="your email"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="password" style="color: white;">Password:</label></td>
+                        <td><input type="password" id="password" name="password"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="phonenumber" style="color: white;">Phone Number:</label></td>
+                        <td><input type="tel" id="phonenumber" name="phonenumber"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="gender" style="color: white;">Gender:</label></td>
+                        <td>
+                            <label for="male" style="color: white;">Male:</label>
+                            <input type="radio" id="male" name="gender" />
+
+                            <label for="female" style="color: white;">Female:</label>
+                            <input type="radio" name="gender" id="female" />
+
+                            <label for="other" style="color: white;">Other:</label>
+                            <input type="radio" name="gender" id="other" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="language" style="color: white;">language:</label></td>
+                        <td>
+                            <select id="language" name="language">
+                                <option value="" disabled selected>Select Language</option>
+                                <option value="English">English</option>
+                                <option value="Azebaijani">Azebaijani</option>
+                                <option value="Turkish">Turkish</option>
+                                <option value="Russian">Russian</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="zipcode" style="color: white;">Zip Code:</label></td>
+                        <td><input type="password" id="zipcode" name="zipcode"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="about" style="color: white;">About:</label></td>
+                        <td><textarea cols="21" rows="2" placeholder="Write about yourself.."></textarea></td>
+                    </tr>
+                </table>
+
+                <input type="submit" value="Register" style="width: 330px;height: 30px;font-weight: 600;border-radius: 5px;">            
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

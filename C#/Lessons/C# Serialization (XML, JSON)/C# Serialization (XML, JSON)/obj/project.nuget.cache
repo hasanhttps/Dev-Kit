@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJ2A4Glw+99q695p8R0LTcdU9lue/IMo69nW2LFoT9i3c4rrHUOuVBdOu5ZGfmRzbbaEvAel0y7cHhNFZMuC/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\C# Serialization (XML, JSON)\\C# Serialization (XML, JSON)\\C# Serialization (XML, JSON).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

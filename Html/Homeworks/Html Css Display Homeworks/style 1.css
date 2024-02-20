@@ -1,0 +1,512 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Montserrat:wght@500&family=Source+Sans+3:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    font-family: 'Raleway';
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+header{
+    background-color: #1a1a1a;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+header .logo-section{
+    margin: 0 auto;
+    width: 60%;
+    position: relative;
+    padding: 20px 0;
+}
+
+header .label-section{
+    margin-top: 250px;
+    text-align: center;
+}
+
+.label-section .text{
+    color: white;
+    text-align: center;
+    letter-spacing: 16px;
+}
+
+.label-section .text2 {
+    font-size: 13px;
+    color: white;
+    line-height: 2.077;
+    text-align: center;
+    letter-spacing: 5px;
+}  
+
+.learn-more-button{
+    background-color: rgb(255, 229, 0);
+    color: rgb(27, 27, 27);
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 2.7;
+    margin-top: 50px;
+    letter-spacing: 4px;
+    width: 170px;
+    height: 50px;
+    display: inline-block;
+    border-style: none;
+    margin-bottom: 255px;
+    text-decoration: none;
+}
+
+.section-1{
+    background-color: white;
+    padding-bottom: 225px;
+    padding-top: 85px;
+    text-align: center;
+}
+
+.section-1 .text {
+    font-size: 15px;
+    color: rgb(112, 112, 112);
+    line-height: 2.133;
+    text-align: center;
+    width: 584px;
+    display: inline-block;
+}
+
+.section-2{
+    padding-top: 85px;
+    background-color: #F4F4F4;
+    text-align: center;
+}
+
+.section-2 .text {
+    font-size: 20px;
+    color: rgb(27, 27, 27);
+    line-height: 1.35;
+    text-align: center;
+    letter-spacing: 15px;
+    display: inline-block;
+}
+
+.list1 li{
+    height: 350px;
+    width: 270px;
+    background-color: white;
+    margin-right: 30px;
+    filter: drop-shadow(rgba(37, 39, 42, 0.1) 0px 0px 5px);
+}
+
+.element .text{
+    display: inline-block;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 8px;
+    margin: 0 auto;
+}
+
+.element .text2{
+    font-size: 12px;
+    text-align: center;
+    color: #707070;
+    letter-spacing: 1px;
+    line-height: 24px;
+    margin: 45px 25px;
+}
+
+.list2 li{
+    height: 165px;
+    width: 270px;
+    background-color: white;
+    margin-right: 30px;
+    filter: drop-shadow(rgba(37, 39, 42, 0.1) 0px 0px 5px);
+}
+
+.element2{
+    display: flex;
+    flex-direction: column;
+    filter: drop-shadow(rgba(37, 39, 42, 0.1) 0px 0px 5px);
+}
+
+.element2 .text{
+    font-size: 13px;
+    margin: 12px;
+    letter-spacing: 1px;
+    width: 6px;
+    color: #1b1b1b;
+}
+
+.line{
+    margin: 0px;
+}
+
+.progress-bar{
+    margin-left: 12px;
+    background-color: #f4f4f4;
+    width: 240px;
+}
+
+.section-3{
+    background-color: #1a1a1a;
+    height: 240px;
+    text-align: center;
+}
+
+.list3{
+    margin-top: 85px;
+}
+
+.list3 li{
+    margin-right: 31px;
+    height: 70px;
+    width: 270px;
+    background-color: #ffffff;
+        filter: drop-shadow(rgba(37, 39, 42, 0.1) 0px 0px 5px);
+}
+
+.list3 .t{
+    font-size: 15px;
+    letter-spacing: 5px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.list3 .t1{
+    font-size: 13px;
+    letter-spacing: 4px;
+}
+
+.section-4{
+    padding-top: 85px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.section-4 .text {
+    font-size: 20px;
+    font-family: "Raleway";
+    color: rgb(27, 27, 27);
+    line-height: 1.35;
+    text-align: center;
+    letter-spacing: 15px;
+    display: inline-block;
+}
+
+.section-4 .text1{
+    font-size: 13px;
+    letter-spacing: 3px;
+    color: #1b1b1b;
+    font-weight: 700;
+    display: inline-block;
+}
+
+.section-4 .categories-section{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 90px 0px;
+}
+
+.graphic-web{
+    gap: 200px;
+    justify-content: center;
+    display: flex;
+    height: 65px;
+    width: 470px;
+    align-items: center;
+    border-top: 1px solid #6f6f6f;
+    border-bottom: 1px solid #6f6f6f;
+}
+
+.development-app{
+    gap: 200px;
+    justify-content: center;
+    display: flex;
+    height: 65px;
+    width: 470px;
+    align-items: center;
+    border-top: 1px solid #6f6f6f;
+    border-bottom: 1px solid #6f6f6f;
+}
+
+.boxes{
+    display: flex;
+    height: 350px;
+}
+
+.boxes .gray-box{
+    width: 319px;
+    background-color: #F4F4F4;
+}
+
+.boxes .black-box{
+    width: 319px;
+    background-color: #1a1a1a;
+}
+
+.boxes #text-box{
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 321px;
+}
+
+.boxes #text-box .yellow-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 236px;
+    height: 260px;
+    background-color: #ffe500;
+}
+
+.boxes #text-box .yellow-box .p-box{
+    width: 300px;
+    height: 190px;
+    background-color: #ffffff;
+}
+
+.p-box .t2{
+    letter-spacing: 3px;
+    font-size: 13px;
+}
+
+.section-5{
+    background-color: #1a1a1a;
+    height: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.view-video-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #ffe500;
+    background-color: #1a1a1a;
+    border: 1px solid #ffe500;
+    width: 370px;
+    height: 77px;
+    font-size: 15px;
+    letter-spacing: 10px;
+}
+
+.section-6{
+    padding-top: 86px;
+    text-align: center;
+
+}
+
+.section-6 .text{
+    font-size: 20px;
+    color: rgb(27, 27, 27);
+    line-height: 1.35;
+    text-align: center;
+    letter-spacing: 15px;
+    display: inline-block;
+}
+
+.list4 li{
+    margin-right: 30px;
+    height: 515px;
+    width: 270px;
+    padding-bottom: 30px;
+    background-color: #ffffff;
+    filter: drop-shadow(rgba(37, 39, 42, 0.1) 0px 0px 5px);
+}
+
+.list4 .card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 515px;
+}
+
+.card .profile{
+    height: 290px;
+    width: 270px;
+    background-color: #1a1a1a;
+}
+
+.card .name-box{
+    height: 60px;
+    width: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1bc05;
+}
+
+.card .name-box .name{
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 7px;
+    font-weight: 700;
+}
+
+.list4{
+    margin-bottom: 90px;
+}
+
+.section-7{
+    position: relative;
+    height: 620px;
+    background: linear-gradient(to bottom, transparent 0%, transparent 32%, #ffe500 32%, #ffe500 64%,transparent 64%, transparent 100%);
+}
+
+.upper-section .black-text-box{
+    height: 375px;
+    width: 570px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    position: absolute;
+    left: 350px;
+}
+
+.section-7 .upper-section .black-text-box .text{
+    font-size: 12px;
+    text-align: justify;
+    line-height: 27px;
+    color: white;
+    width: 420px;
+    height: 230px;
+}
+
+.section-7 .text-section{
+    position: absolute;
+    right: 460px;
+    width: 395px;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-7 .text-section .text1{
+    font-size: 12px;
+    font-weight: 700;
+    display: inline-block;
+    text-align: right;
+    font-style: italic;
+}
+
+.section-7 .lower-section .black-text-box{
+    background-color: #1a1a1a;
+    position: absolute;
+    right: 344px;
+    height: 375px;
+    width: 570px;
+    margin-top: 210px;
+}
+
+footer{
+    background-color: #1a1a1a;
+    height: 386px;
+    display: flex;
+    justify-content: center;
+}
+
+footer .information-section{
+    margin-top: 88px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer .links-section{
+    margin-top: 88px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer .aboutus-section{
+    margin-top: 88px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer .contactus-section{
+    margin-top: 88px;
+    margin-left: 125px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactus-section .gmail-button{
+    width: 370px;
+    height: 45px;
+    color: #1b1b1b;
+    background-color: #ffe500;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    text-decoration: none;
+    margin-top: 47px;
+}
+
+.contactus-section .social-media-section{
+    display: flex;
+    justify-content: left;
+    gap: 11px;
+    margin-top: 38px;
+}
+
+#black-sparkle{
+    margin: 0 67px;
+}
+
+#footer-context{
+    font-size: 12px;
+    display: inline-block;
+    text-align: left;
+    color: #f0f0f0;
+    line-height: 2.133;
+    margin-top: 0px;
+    text-decoration: none;
+}
+
+#context{
+    font-size: 15px;
+    color: rgb(112, 112, 112);
+    line-height: 2.133;
+    text-align: center;
+    width: 755px;
+    display: inline-block;
+}
+
+#category{
+    margin-top: 40px;
+}
+
+#mountain{
+    margin-bottom: 80px;
+}
+  
+#sparkle{
+    height: 40px;
+    position: absolute;
+    left: 0;
+}
+
+#hamburgermenu{
+    height: 40px;
+    position: absolute;
+    right: 0;
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Broadcast Receiver/1.0.0": {
+        "runtime": {
+          "Broadcast Receiver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Broadcast Receiver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

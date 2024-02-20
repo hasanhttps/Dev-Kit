@@ -1,0 +1,30 @@
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\WPF Scrape Movie Link.exe
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\WPF Scrape Movie Link.deps.json
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\WPF Scrape Movie Link.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\WPF Scrape Movie Link.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\WPF Scrape Movie Link.pdb
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.g.resources
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.csproj.CopyComplete
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\refint\WPF Scrape Movie Link.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.pdb
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\ref\WPF Scrape Movie Link.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\hasan\source\repos\WPF Scrape Movie Link\WPF Scrape Movie Link\obj\Debug\net6.0-windows\WPF Scrape Movie Link_Content.g.cs

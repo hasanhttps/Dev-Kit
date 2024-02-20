@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\bin\Debug\net6.0\Network Programming HttpClient Practise.exe
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\bin\Debug\net6.0\Network Programming HttpClient Practise.deps.json
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\bin\Debug\net6.0\Network Programming HttpClient Practise.runtimeconfig.json
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\bin\Debug\net6.0\Network Programming HttpClient Practise.dll
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\bin\Debug\net6.0\Network Programming HttpClient Practise.pdb
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.dll
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\refint\Network Programming HttpClient Practise.dll
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.pdb
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\Network Programming HttpClient Practise.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Network Programming HttpClient Practise\Network Programming HttpClient Practise\obj\Debug\net6.0\ref\Network Programming HttpClient Practise.dll

@@ -64,7 +64,7 @@ except:
 
 window = Tk()
 
-window.iconbitmap("C:/Users/hasan/Desktop/Python/Cookie clikcer/Images/cookie.ico")
+window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/Images/cookie.ico")
 window.title("Registration")
 window.geometry("614x410+650+300")
 window.minsize(200,210)
@@ -142,7 +142,7 @@ def end_time():
     result_cookie = baslangic
     persecond = result_cookie / second
     result = Toplevel(bg="white")
-    result.iconbitmap("C:/Users/hasan/Desktop/Python/Cookie clikcer/images/notepad.ico")
+    result.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/notepad.ico")
     result.title("Result")
     result.geometry("500x410+700+250")
     result.minsize(400,310)
@@ -317,35 +317,35 @@ def exitprogram():
 
 #-----------------------Images-----------------------------
 
-log_in_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/Images/Log.png")
+log_in_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/Images/Log.png")
 log_in_image_label = Label(log_in_frame,image=log_in_image).pack()
 
-cookie_main_png = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/Images/cookielabel.png")
+cookie_main_png = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/Images/cookielabel.png")
 cookie_main_label = Label(home_page_frame,image=cookie_main_png).pack()
 
-acilis_sekil = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/login sehife.png")
+acilis_sekil = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/login sehife.png")
 acilis_sekil_label = Label(main_page_frame,image=acilis_sekil).pack()
 
-cookie_clicker_background = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/wp7667538-cookie-clicker-wallpapers.gif")
+cookie_clicker_background = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/wp7667538-cookie-clicker-wallpapers.gif")
 cookie_clicker_background_label = Label(game_frame,image=cookie_clicker_background).pack()
 
-back_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/backimage.gif")
+back_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/backimage.gif")
 
-settings_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/setting.png")
+settings_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/setting.png")
 
-information_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/information.png")
+information_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/information.png")
 
-home_button_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/house.png")
+home_button_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/house.png")
 
-cookie_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/cookie.png")
+cookie_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/cookie.png")
 
-back_game_image = PhotoImage(file="C:/Users/hasan/Desktop/Python/Cookie clikcer/images/left-arrow.png")
+back_game_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Cookie clikcer/images/left-arrow.png")
 
-hideimage = PhotoImage(file="C:/Users/hasan/Desktop/Python/Final Project/images/hide-interface-symbol.gif")
+hideimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Final Project/images/hide-interface-symbol.gif")
 
-exitimage = PhotoImage(file="C:/Users/hasan/Desktop/Python/Final Project/images/pngwing.com-_5_.gif")
+exitimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Final Project/images/pngwing.com-_5_.gif")
 
-showimage = PhotoImage(file="C:/Users/hasan/Desktop/Python/Final Project/images/show.gif")
+showimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Dev Kit/Python/Final Project/images/show.gif")
 
 #-----------------------Buttons----------------------------
 

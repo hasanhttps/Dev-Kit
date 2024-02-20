@@ -1,0 +1,21 @@
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager_MarkupCompile.cache
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager_MarkupCompile.lref
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\bin\Debug\net6.0-windows\Patient Manager.exe
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\bin\Debug\net6.0-windows\Patient Manager.deps.json
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\bin\Debug\net6.0-windows\Patient Manager.runtimeconfig.json
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\bin\Debug\net6.0-windows\Patient Manager.dll
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\bin\Debug\net6.0-windows\Patient Manager.pdb
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.g.resources
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.dll
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\refint\Patient Manager.dll
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.pdb
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\Patient Manager.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Patient Manager\Patient Manager\obj\Debug\net6.0-windows\ref\Patient Manager.dll

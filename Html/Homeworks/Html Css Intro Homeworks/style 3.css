@@ -1,0 +1,119 @@
+.header img{
+    width: 62px;
+    margin-left: 10px;
+}
+
+.contact{
+    color: #5A59D9;
+}
+
+.contact-information{
+    background: #F7F9FD;
+    height: 475px;
+    width: 365px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.body{
+    display: flex;
+}
+
+.header{
+    height: 75px;
+    align-items: center;
+    display: flex;/*inline-block*/
+    justify-content: space-between;
+}
+
+.footer{
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 50px;
+    background-color: #F7F9FD;
+    align-items: center;
+    display: flex;/*inline-block*/
+    justify-content: space-between;
+}
+
+.listelement{
+    text-decoration: none;
+    color: #000A47;
+    display: flex;
+    font-family: "Branding W00 Semibold";
+    font-size: 20px;
+}
+
+.form{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 570px;
+}
+
+.littlep{
+    font-size: 11px;
+}
+
+.formelement{
+    padding-left: 10px;
+    padding-top: 10px;
+    border-style: none;
+    background: #F7F9FD;
+    height: 38px;
+    width: 180px;
+}
+
+.requestingbuttons{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 40px;
+    border-style: none;
+    background-color: #FFB078;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+#socialnetwork{
+    font-size: 50px;
+    color: #000A47;
+}
+
+label{
+    color: #000A47;
+}
+
+body{
+    font-family: "Branding W00 Semibold";
+    padding-right: 300px;
+}
+
+i{
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    color: #000A47;
+    font-family: "Branding W00 Semibold";
+    font-size: 20px;
+    display: flex;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+ul li{
+    display: inline-block;
+}

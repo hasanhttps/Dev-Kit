@@ -1,0 +1,5 @@
+C:\Users\hasan\WPF Projects\Furniture Factory Example\Furniture Factory Example\obj\Debug\net6.0\Furniture Factory Example.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Furniture Factory Example\Furniture Factory Example\obj\Debug\net6.0\Furniture Factory Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Furniture Factory Example\Furniture Factory Example\obj\Debug\net6.0\Furniture Factory Example.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Furniture Factory Example\Furniture Factory Example\obj\Debug\net6.0\Furniture Factory Example.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Furniture Factory Example\Furniture Factory Example\obj\Debug\net6.0\Furniture Factory Example.csproj.CoreCompileInputs.cache

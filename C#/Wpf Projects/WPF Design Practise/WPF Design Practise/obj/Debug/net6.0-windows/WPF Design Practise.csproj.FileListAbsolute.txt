@@ -1,0 +1,24 @@
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\WPF Design Practise.exe
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\WPF Design Practise.deps.json
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\WPF Design Practise.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\WPF Design Practise.dll
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\WPF Design Practise.pdb
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.g.resources
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.csproj.CopyComplete
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.dll
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\refint\WPF Design Practise.dll
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.pdb
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\WPF Design Practise.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\ref\WPF Design Practise.dll
+C:\Users\hasan\source\repos\WPF Design Practise\WPF Design Practise\obj\Debug\net6.0-windows\App.baml

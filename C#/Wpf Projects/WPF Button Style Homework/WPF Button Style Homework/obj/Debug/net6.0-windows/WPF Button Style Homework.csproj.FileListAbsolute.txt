@@ -1,0 +1,22 @@
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\bin\Debug\net6.0-windows\WPF Button Style Homework.exe
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\bin\Debug\net6.0-windows\WPF Button Style Homework.deps.json
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\bin\Debug\net6.0-windows\WPF Button Style Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\bin\Debug\net6.0-windows\WPF Button Style Homework.dll
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\bin\Debug\net6.0-windows\WPF Button Style Homework.pdb
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\App.baml
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.g.resources
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.dll
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\refint\WPF Button Style Homework.dll
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.pdb
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\WPF Button Style Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Button Style Homework\WPF Button Style Homework\obj\Debug\net6.0-windows\ref\WPF Button Style Homework.dll

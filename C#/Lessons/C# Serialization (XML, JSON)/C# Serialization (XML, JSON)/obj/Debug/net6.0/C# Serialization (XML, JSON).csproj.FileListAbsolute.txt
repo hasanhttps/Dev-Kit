@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\C# Serialization (XML, JSON).exe
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\C# Serialization (XML, JSON).deps.json
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\C# Serialization (XML, JSON).runtimeconfig.json
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\C# Serialization (XML, JSON).dll
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\C# Serialization (XML, JSON).pdb
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).dll
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\refint\C# Serialization (XML, JSON).dll
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).pdb
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\ref\C# Serialization (XML, JSON).dll
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\C# Serialization (XML, JSON)\C# Serialization (XML, JSON)\obj\Debug\net6.0\C# Serialization (XML, JSON).csproj.CopyComplete

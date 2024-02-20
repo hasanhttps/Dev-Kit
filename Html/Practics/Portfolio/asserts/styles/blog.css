@@ -1,0 +1,188 @@
+/*!Default*/
+
+@font-face {
+    font-family: 'Heebo';
+    src: url('../fonts/Heebo/Heebo-VariableFont_wght.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    font-style: inherit;
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+    color: #21243D;
+    background-color: white;
+}
+
+@media screen and (min-width:800px) {
+    header nav img{
+        visibility: collapse;
+        width: 0;
+    }
+}
+
+/*!Header*/
+
+header {
+    width: 100%;
+    padding: 27px 60px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 999;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+
+header nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: 500;
+    gap: 30px;
+}
+
+
+header nav ul li a {
+    transition-duration: 0.3s;
+}
+
+header nav ul li a:hover {
+    color:#FF6464;
+}
+
+/*!Header End*/
+
+
+/*!Main*/
+
+main{
+    margin: 0 auto;
+    padding-top: 106px;
+    width: 682px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main .head-section .t1{
+    width: 682px;
+    height: 54px;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+section{
+    margin-top: 55px;
+}
+
+main .t1{
+    width: 682px;
+    height: 33px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+main .t2{
+    height: 25px; 
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 16px;
+}
+
+main .symbol{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 20px;
+}
+
+main .t3{
+    display: inline-block;
+    color: var(--Light, #8695A4);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+main .t4{
+    margin-top: 15px;
+    width: 682px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+main .line{
+    margin-top: 29px;
+}
+
+main .section-4{
+    margin-bottom: 53px;
+}
+
+/*!Main End*/
+
+/*!Footer*/
+
+footer {
+    padding: 50px 0;
+    margin: auto;
+}
+
+footer nav {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 35px;
+}
+
+footer nav .copyright {
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
+
+footer nav ul li a img {
+    transition-duration: 0.3s;
+    transform: scale(1);
+}
+
+footer nav ul li a img:hover {
+    transform: scale(1.5);
+    filter: contrast(5);
+}
+
+/*!Footer End*/

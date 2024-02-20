@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags (Tables, Forms ,Links)</title>
+</head>
+<body>
+    <!--
+
+        table
+        tr => setirler = rows
+        td => sutunlar = columns
+        th => basliq = header
+        
+        cellpadding => contentin border ile arasindaki mesafe
+            distance between content and border.
+        cellspacing => coldeki border ve icerideki borderler arasindaki mesafe
+            distance between outer border and inner column borders.
+    -->
+
+    <table border="1" width="190" cellpadding="10" cellspacing="0"
+        align="center">
+
+        <tr>
+            <th>Name</th>
+            <th>Surame</th>
+            <th>Age</th>
+        </tr>
+        
+        <tr>
+            <td>Hesen</td>
+            <td>Abdullazade</td>
+            <td>15</td>
+        </tr>
+
+        <tr>
+            <td>Cavid</td>
+            <td>Atamoghlanov</td>
+            <td>25</td>
+        </tr>
+
+        <tr>
+            <td>Amin</td>
+            <td colspan="2">Bennayev</td>
+            <!--
+                * colspan => Tutacagi sutunun sayini deyirik. We define count of
+                *    column that our column holds.
+                * rowspan => Tutacagi setirin sayini deyirik. We define count of
+                *    row that our column holds.
+            -->
+        </tr>
+    </table>
+
+    <!--Practise-->
+
+    <table id="complextable" border="1" cellspacing="1" cellpadding="10" align="center"
+        width="500">
+        
+        <tr>
+            <th rowspan="3">Day</th>
+            <th colspan="4">Seminar</th>
+        </tr>
+        
+        <tr>
+            <th colspan="2">Schedule</th>
+            <th colspan="2" rowspan="2">Topic</th>
+        </tr>
+
+        <tr>
+            <th>Begin</th>
+            <th>End</th>
+        </tr>
+        
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td rowspan="2">8:00 a.m.</td>
+            <td rowspan="2">5:00 a.m.</td>
+            <td rowspan="1" align="center">Introduction to XML</td>
+        </tr>
+
+        <tr>
+            <td>Validity: DTD and Relax NG</td>
+        </tr>
+
+        <tr>
+            <td rowspan="3">Tuesday</td>
+            <td>8:00 a.m.</td>
+            <td>11:00 a.m.</td>
+            <td align="center" cellpadding="20">XPath</td>
+        </tr>
+
+        <tr>
+            <td>11:00 a.m.</td>
+            <td>2:00 p.m.</td>
+        </tr>
+        
+        <tr>
+            <td>2:00 p.m.</td>
+            <td>5:00 p.m.</td>
+            <td align="center">XSL Transformations</td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>8:00 a.m.</td>
+            <td>12:00 p.m.</td>
+            <td>XSL Formatting Objects</td>
+        </tr>
+    </table>    
+
+    <table border="1" cellspacing="0" cellpadding="10" align="center"
+        width="95%" height="800">
+
+        <!--Header Part-->
+
+        <tr>
+            <th colspan="6">
+                
+            </th>
+        </tr>
+
+        <!--Main Part-->
+
+        <td colspan="1">
+
+        </td>
+        <td colspan="4">
+            
+        </td>
+
+        
+        <td colspan="1">
+            
+        </td>
+
+        <!--Footer Part-->
+
+        <tr>
+
+        </tr>
+    </table>
+
+    <!--Links-->
+
+    <a href="https://www.noip.com/">noip</a>
+    <a hspace="15" href="tel:0503356502">Contact Number</a>
+    <a hspace="15" href="#top">Top</a>
+    <a hspace="15" href="#complextable">Complex Table</a>
+
+</body>
+</html>

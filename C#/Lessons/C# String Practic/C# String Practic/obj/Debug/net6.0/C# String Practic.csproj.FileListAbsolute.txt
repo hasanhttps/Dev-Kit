@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\bin\Debug\net6.0\C# String Practic.exe
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\bin\Debug\net6.0\C# String Practic.deps.json
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\bin\Debug\net6.0\C# String Practic.runtimeconfig.json
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\bin\Debug\net6.0\C# String Practic.dll
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\bin\Debug\net6.0\C# String Practic.pdb
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.dll
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\refint\C# String Practic.dll
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.pdb
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\C# String Practic.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# String Practic\C# String Practic\obj\Debug\net6.0\ref\C# String Practic.dll

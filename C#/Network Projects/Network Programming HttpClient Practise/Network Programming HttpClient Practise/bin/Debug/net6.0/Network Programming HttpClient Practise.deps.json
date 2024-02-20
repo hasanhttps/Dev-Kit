@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Network Programming HttpClient Practise/1.0.0": {
+        "runtime": {
+          "Network Programming HttpClient Practise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Network Programming HttpClient Practise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

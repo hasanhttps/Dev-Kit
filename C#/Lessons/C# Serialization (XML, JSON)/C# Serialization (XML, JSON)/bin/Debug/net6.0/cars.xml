@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car Id="1" Vendor="Tesla" Maker="Model 3" />
+  <car Id="2" Vendor="Aston Martin" Maker="Rapid" />
+  <car Id="3" Vendor="Pajero" Maker="Sport" />
+</cars>

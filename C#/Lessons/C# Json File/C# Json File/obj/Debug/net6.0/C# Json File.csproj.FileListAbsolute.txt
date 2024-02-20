@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Json File\C# Json File\bin\Debug\net6.0\C# Json File.exe
+C:\Users\hasan\source\repos\C# Json File\C# Json File\bin\Debug\net6.0\C# Json File.deps.json
+C:\Users\hasan\source\repos\C# Json File\C# Json File\bin\Debug\net6.0\C# Json File.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Json File\C# Json File\bin\Debug\net6.0\C# Json File.dll
+C:\Users\hasan\source\repos\C# Json File\C# Json File\bin\Debug\net6.0\C# Json File.pdb
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.dll
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\refint\C# Json File.dll
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.pdb
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\C# Json File.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Json File\C# Json File\obj\Debug\net6.0\ref\C# Json File.dll

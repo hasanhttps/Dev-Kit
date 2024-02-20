@@ -1,0 +1,38 @@
+main .featured-works .work-list .work-item img {
+    width:100%;
+}
+
+header nav img
+{
+    display:inline;
+}
+header
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav ul {
+    display: none;
+}
+
+header nav{
+    justify-content: flex-end;
+    width: 30px;
+}
+
+
+header nav:hover ul
+{
+    display: block;
+    cursor: pointer;
+    padding-right: 50px;
+    padding-top: 15px;
+}
+
+header nav:hover img
+{
+    display: none;
+}
+
+

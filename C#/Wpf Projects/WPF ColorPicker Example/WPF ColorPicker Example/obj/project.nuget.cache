@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCY3UWN6u0Aj89TXWLs6cuVfryf0JwT25A3BCQmcC1g4UcjhnSKDJdiFi/uh3MR3iO8kTcEfDY7Y89t+FmBaIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\source\\repos\\WPF ColorPicker Example\\WPF ColorPicker Example\\WPF ColorPicker Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

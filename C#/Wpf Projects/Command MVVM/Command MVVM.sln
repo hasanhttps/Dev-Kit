@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command MVVM", "Command MVVM\Command MVVM.csproj", "{10B902F4-035A-42A3-A1D1-88E3BD01AF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM\MVVM.csproj", "{37F19E8F-C597-43DF-8039-6CDCC8386A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B902F4-035A-42A3-A1D1-88E3BD01AF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B902F4-035A-42A3-A1D1-88E3BD01AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B902F4-035A-42A3-A1D1-88E3BD01AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B902F4-035A-42A3-A1D1-88E3BD01AF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F19E8F-C597-43DF-8039-6CDCC8386A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F19E8F-C597-43DF-8039-6CDCC8386A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F19E8F-C597-43DF-8039-6CDCC8386A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F19E8F-C597-43DF-8039-6CDCC8386A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7A67EF-4217-436D-BDBA-537ABF196585}
+	EndGlobalSection
+EndGlobal

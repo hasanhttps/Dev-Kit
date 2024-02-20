@@ -1,0 +1,48 @@
+header .overlap-group{
+    visibility: collapse !important;
+    width: 0px !important;
+}
+
+main .left{
+    margin-left: 0px;
+}
+
+main{
+    padding-left: 6.4vh;
+}
+
+main .header{
+    margin-left: 100px !important;
+}
+
+main .section-2 .brand{
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+}
+
+main .group-2{
+    flex-wrap: wrap !important;
+    flex-direction: row;
+	width: 475px;
+    gap: 24px; 
+    justify-content: left;
+}
+
+main .header{
+    margin-left: 200px;
+}
+
+footer{
+    padding-left: 6.4vh;
+}
+
+footer .group-11{
+    height: 250px !important;
+    width: 411px;
+}
+
+footer .group-12{
+    left: 28vh;
+    margin-top: 100px;
+}

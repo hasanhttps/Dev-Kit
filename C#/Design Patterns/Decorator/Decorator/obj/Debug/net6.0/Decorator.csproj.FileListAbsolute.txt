@@ -1,0 +1,15 @@
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\hasan\WPF Projects\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\hasan\WPF Projects\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\hasan\WPF Projects\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\hasan\WPF Projects\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll

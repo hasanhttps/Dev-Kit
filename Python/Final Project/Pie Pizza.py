@@ -201,60 +201,60 @@ messaj = 0
 #Design
 
 
-window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/3132693.ico")
+window.iconbitmap("images/3132693.ico")
 window.title("Pie Pizza")
 window.geometry("500x410+700+250")
 window.minsize(200,210)
 window.maxsize(500,410)
 
-anasayfa_sekil = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/Chow-Cheers-Nandos-restaurant-Menu-Design.gif")
+anasayfa_sekil = PhotoImage(file="images/Chow-Cheers-Nandos-restaurant-Menu-Design.gif")
 ansayfalabel = Label(main_page_frame,image=anasayfa_sekil).pack()
 
-back_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Cookie clikcer/images/backimage.gif")
+back_image = PhotoImage(file="images/backimage.gif")
 
-homeimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/pngwing.com-_4_.gif")
+homeimage = PhotoImage(file="images/pngwing.com-_4_.gif")
 
-siparisimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/menu.gif")
+siparisimage = PhotoImage(file="images/menu.gif")
 
 siparisimagelabel = Label(siparis_frame,image=siparisimage).pack()
 
-hideimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/hide-interface-symbol.gif")
+hideimage = PhotoImage(file="images/hide-interface-symbol.gif")
 
-exitimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/pngwing.com-_5_.gif")
+exitimage = PhotoImage(file="images/pngwing.com-_5_.gif")
 
-showimage = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/show.gif")
+showimage = PhotoImage(file="images/show.gif")
 
-support_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/information.gif")
+support_image = PhotoImage(file="images/information.gif")
 
-talep_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/plus.gif")
+talep_image = PhotoImage(file="images/plus.gif")
 
-buynow_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/buy.gif")
+buynow_image = PhotoImage(file="images/buy.gif")
 
-secim_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/secim.gif")
+secim_image = PhotoImage(file="images/secim.gif")
 
-settings_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/settings.gif")
+settings_image = PhotoImage(file="images/settings.gif")
 
-save_button_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/save-file.gif")
+save_button_image = PhotoImage(file="images/save-file.gif")
 
-admin_walpaper = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/admin (1) (1).gif")
+admin_walpaper = PhotoImage(file="images/admin (1) (1).gif")
 
 admin_walpaper_label = Label(edit_pizza_frame,image=admin_walpaper).pack()
 
-back_button_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/left-arrow (1).gif")
+back_button_image = PhotoImage(file="images/left-arrow (1).gif")
 
-price_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/price.gif")
+price_image = PhotoImage(file="images/price.gif")
 
-check_mark_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/check-mark.gif")
+check_mark_image = PhotoImage(file="images/check-mark.gif")
 
-save_talep_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/download.gif")
+save_talep_image = PhotoImage(file="images/download.gif")
 
-talep_back_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/backimage.gif")
+talep_back_image = PhotoImage(file="images/backimage.gif")
 
-active_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/active.gif")
+active_image = PhotoImage(file="images/active.gif")
 
-notification_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/notification.gif")
+notification_image = PhotoImage(file="images/notification.gif")
 
-trash_bin_image = PhotoImage(file="C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/trash.gif")
+trash_bin_image = PhotoImage(file="images/trash.gif")
 
 #-----------------------------------------------------------------------------------------------------------------------------
 #Funksiyalar
@@ -279,7 +279,7 @@ def  delete_talep():
     messagebox.showinfo("Info",f"{entry_talep_delete.get()} telebi ugurla silindi !")
     
 def back_notifications_command():
-    window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/pngwing.com (6).ico")
+    window.iconbitmap("images/pngwing.com (6).ico")
     notifications_frame.forget()
     adminpage_frame.pack(expand=True,fill=BOTH)
     earning_label.place(relx=0.2,rely=0.2,relwidth=0.6,relheight=0.5)
@@ -295,7 +295,7 @@ def notifications_open_frame():
     adminpage_frame.forget()
     notifications_frame.pack(expand=True,fill=BOTH)
     window.title("Notifications")
-    window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/notification-bell.ico")
+    window.iconbitmap("images/notification-bell.ico")
     
     for key,value in talep.items():
         stringadd += f"Name : {key}                       Price : {value}\n\n"
@@ -395,7 +395,7 @@ def back_edit_frame():
     adminpage_frame.pack(expand=True,fill=BOTH)
     window.geometry("700x600+600+150")
     window.title("Admin Page")
-    window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/pngwing.com (6).ico")
+    window.iconbitmap("images/pngwing.com (6).ico")
     window.minsize(700,600)
     window.maxsize(800,800)
 
@@ -441,7 +441,7 @@ def entry_name_open():
 def settings_open():
     adminpage_frame.forget()
     edit_pizza_frame.pack(expand=True,fill=BOTH)
-    window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/edit.ico")
+    window.iconbitmap("images/edit.ico")
     window.title("Edit Menu")
     window.geometry("500x410+700+250")
     window.minsize(400,310)
@@ -484,7 +484,7 @@ def log_in_backbutton():
     
 def adminback():
     adminpage_frame.forget()
-    window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/3132693.ico")
+    window.iconbitmap("images/3132693.ico")
     register_frame.pack(expand=True,fill=BOTH)
     window.geometry("500x410+700+250")
     window.minsize(200,210)
@@ -518,7 +518,7 @@ def buy():
         print(earning_dictionary)
         yeni_pencere = Toplevel()
         yeni_pencere.title("Siparis Onaylandi")
-        yeni_pencere.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/check.ico")
+        yeni_pencere.iconbitmap("images/check.ico")
         yeni_pencere.geometry("400x300+750+400")
         yeni_pencere.minsize(400,300)
         yeni_pencere.maxsize(400,400)
@@ -656,7 +656,7 @@ def log_in_user():
             loginemail = entry_login_email.get()
             
             if entry_login_password.get() == alladmins[entry_login_email.get()]["password"]:
-                window.iconbitmap("C:/Users/hasan/OneDrive/Masaüstü/Python/Final Project/images/pngwing.com (6).ico")
+                window.iconbitmap("pngwing.com (6).ico")
                 messagebox.showinfo("Welcome","Xos geldiniz !")
                 register_frame.forget()
                 adminpage_frame.pack(expand=True,fill=BOTH)
@@ -668,7 +668,7 @@ def log_in_user():
                 window.maxsize(800,800)
                 tebrikler_label.config(text=f"Congratulations {alladmins[entry_login_email.get()]['name']}\U0001F389")
             else:
-                 messagebox.showwarning("Invalid passwprd","Please input true password !")
+                 messagebox.showwarning("Invalid password","Please input true password !")
         else:
             messagebox.showwarning("Invalid email","Please input true email !")
     else:
@@ -1019,7 +1019,6 @@ talep_back_button.place(relx=0.05,rely=0.05)
 
 back_notifications_button = Button(notifications_frame,image=talep_back_image,bg="white",command=back_notifications_command)
 back_notifications_button.place(relx=0.05,rely=0.05)
-
 silme_talep_button = Button(notifications_frame,image= trash_bin_image,bg ="white",command=delete_talep)
 silme_talep_button.place(relx=0.9,rely=0.1)
 
@@ -1028,9 +1027,7 @@ silme_talep_button.place(relx=0.9,rely=0.1)
 
 # entry_choiche_name = Entry(edit_pizza_name,font=("Ariel",12))
 # entry_choiche_name.place(relx=0.2,rely=0.3)
-
 entry_change_name = Entry(edit_pizza_name,font=("Ariel",10))
-
 entry_change_price = Entry(edit_price_frame,font=("Ariel",10))
 
 #--------------------------------------------------------------------------------------------------------------------------------
@@ -1038,7 +1035,6 @@ entry_change_price = Entry(edit_price_frame,font=("Ariel",10))
 
 entry_login_email = Entry(register_frame,font=("Ariel",10))
 entry_login_email.place(relx=0.35,rely=0.2)
-
 entry_login_password = Entry(register_frame,font=("Ariel",10))
 entry_login_password.place(relx=0.35,rely=0.5)
 
@@ -1047,19 +1043,14 @@ entry_login_password.place(relx=0.35,rely=0.5)
 
 entry_name = Entry(sign_up_frame,font=("Ariel",10))
 entry_name.place(relx=0.3,rely=0.15)
-
 entry_surname = Entry(sign_up_frame,font=("Ariel",10))
 entry_surname.place(relx=0.3,rely=0.20)
-
 entry_age = Entry(sign_up_frame,font=("Ariel",10))
 entry_age.place(relx=0.3,rely=0.25)
-
 entry_email = Entry(sign_up_frame,font=("Ariel",10))
 entry_email.place(relx=0.3,rely=0.4)
-
 entry_password = Entry(sign_up_frame,font=("Ariel",10),show="*")
 entry_password.place(relx=0.3,rely=0.45)
-
 entry_confirm = Entry(sign_up_frame,font=("Ariel",10),show="*")
 entry_confirm.place(relx=0.3,rely=0.5)
 
@@ -1068,10 +1059,8 @@ entry_confirm.place(relx=0.3,rely=0.5)
 
 entry_talep_delete = Entry(notifications_frame)
 entry_talep_delete.place(relx = 0.7,rely=0.1)
-
 entry_talep_name = Entry(talep_frame,font=("Ariel",14))
 entry_talep_name.place(relx=0.35,rely=0.3)
-
 entry_talep_price = Entry(talep_frame,font=("Ariel",14))
 entry_talep_price.place(relx=0.35,rely=0.5)
 
@@ -1080,53 +1069,38 @@ entry_talep_price.place(relx=0.35,rely=0.5)
 
 entry_count_mitlovers = Entry(siparis_frame,font=("Ariel",8))
 entry_count_mitlovers.place(relx=0.8,rely=0.3,relwidth=0.1,relheight=0.025)
-
 entry_count_vegeterian = Entry(siparis_frame,font=("Ariel",8))
 entry_count_vegeterian.place(relx=0.8,rely=0.25,relwidth=0.1,relheight=0.025)
-
 entry_count_marqarit = Entry(siparis_frame,font=("Ariel",8))
 entry_count_marqarit.place(relx=0.8,rely=0.2,relwidth=0.1,relheight=0.025)
 
 #------------------------------------------------------------------------------------------------------------------------------
 #Labels
 
-
 tebrikler_label = Label(adminpage_frame,bg="white",font=14)
 tebrikler_label.place(relx=0.3,rely=0.3)
-
 new_pizza_price = Label(edit_price_frame,text="New Price :")
 new_pizza_price.place(relx=0.15,rely=0.2)
-
 past_price_label = Label(edit_price_frame,text="Past :")
 past_price_label.place(relx=0.2,rely=0.4)
-
 login_email_label = Label(register_frame,text="Email :")
 login_email_label.place(relx=0.2,rely=0.2)
-
 login_password_label = Label(register_frame,text="Password :")
 login_password_label.place(relx=0.2,rely=0.5)
-
 name_label = Label(sign_up_frame,text="Name :")
 name_label.place(relx=0.15,rely=0.15)
-
 surname_label = Label(sign_up_frame,text="Surname :")
 surname_label.place(relx=0.15,rely=0.20)
-
 age_label = Label(sign_up_frame,text="Age :")
 age_label.place(relx=0.15,rely=0.25)
-
 gender_label = Label(sign_up_frame,text="Gender :")
 gender_label.place(relx=0.15,rely=0.3)
-
 email_label = Label(sign_up_frame,text="Email :")
 email_label.place(relx=0.15,rely=0.4)
-
 password_label = Label(sign_up_frame,text="Password  :")
 password_label.place(relx=0.15,rely=0.45)
-
 confirm_label = Label(sign_up_frame,text="Confirm Pasword :")
 confirm_label.place(relx=0.15,rely=0.5)
-
 total_label = Label(siparis_frame,text="Total : 0")
 total_label.place(relx=0.8,rely=0.9)
 
@@ -1135,10 +1109,8 @@ total_label.place(relx=0.8,rely=0.9)
 
 change_name_label = Label(edit_pizza_name,text="Name :")
 change_name_label.place(relx=0.15,rely=0.2)
-
 past_name_label = Label(edit_pizza_name,text="Past Name :")
 past_name_label.place(relx=0.2,rely=0.4)
-
 price_image_label = Label(adminpage_frame,image=price_image)
 price_image_label.place(relx=0.675,rely=0.2)
 
@@ -1147,13 +1119,10 @@ price_image_label.place(relx=0.675,rely=0.2)
 
 talep_delete_name = Label(notifications_frame,text="Entry Pizza Name",bg="white")
 talep_delete_name.place(relx=0.55,rely=0.1)
-
 talep_name_label = Label(talep_frame,text="Pizza Name :",font=12)
 talep_name_label.place(relx=0.20,rely=0.3)
-
 talep_price_label = Label(talep_frame,text="Pizza Price :",font=12)
 talep_price_label.place(relx=0.199,rely=0.5)
-
 talep_messaj_label = Label(notifications_frame,text="",font=12,bg="white")
 
 notifications_frame.config(bg="white")
@@ -1188,26 +1157,21 @@ admin_login_radiobutton.place(relx=0.5,rely=0.35)
 #----------------------------------------------------------------------------------------------------------------------------------
 #Combobox
 
-
 name = StringVar()
-
 price = StringVar()
-
 y = StringVar()
         
 combobox = ttk.Combobox(sign_up_frame,textvariable=y,state="readonly",values=["Python","C++","C+","C#","Java","HTML"],cursor="hand2")
 
-
 change_combobox = ttk.Combobox(edit_pizza_name,textvariable=name,state="readonly",values=[pizza_names['check_ortaboy'],pizza_names['check_kicikboy'],pizza_names['check_boyukboy']],cursor="hand2")
 change_combobox.place(relx=0.36,rely=0.4)
-
 
 price_combobox = ttk.Combobox(edit_price_frame,textvariable=price,state="readonly",value=[pizza_price["check_kicikboy"],pizza_price["check_ortaboy"],pizza_price["check_boyukboy"]])
 price_combobox.place(relx=0.36,rely=0.4)
 
-
 #-----------------------------------------------------------------------------------------------------------------------------------
 #Checkbutton
+
 sous_variable = IntVar()
 moyonez = IntVar()
 pendir = IntVar()
@@ -1221,71 +1185,16 @@ check_kicikboy.place(relx=0.15,rely=0.2,relwidth=0.6,relheight=0.025)
 check_ortaboy = ttk.Checkbutton(siparis_frame,text=f"{pizza_names['check_ortaboy']} -- {pizza_price['check_ortaboy']}$",variable=sosis_ortaboy,cursor="hand2",command=totalpizza)
 check_ortaboy.place(relx=0.15,rely=0.25,relwidth=0.6,relheight=0.025)
 
-
 check_boyukboy = ttk.Checkbutton(siparis_frame,text=f"{pizza_names['check_boyukboy']} -- {pizza_price['check_boyukboy']}$",variable=sosis_boyukboy,cursor="hand2",command=totalpizza)
 check_boyukboy.place(relx=0.15,rely=0.30,relwidth=0.6,relheight=0.025)
-
 
 ketchup_combobox = ttk.Checkbutton(siparis_frame,text=f"Ketchup -- {sous['Ketchup']}",variable=sous_variable,cursor="hand2",command=totalpizza)
 ketchup_combobox.place(relx=0.15,rely=0.35,relwidth=0.4,relheight=0.025)
 
-
 moyonez_combobox = ttk.Checkbutton(siparis_frame,text=f"Moyonez -- {sous['Moyonez']}",variable=moyonez,cursor="hand2",command=totalpizza)
 moyonez_combobox.place(relx=0.15,rely=0.4,relwidth=0.4,relheight=0.025)
-
 
 pendir_combobox = ttk.Checkbutton(siparis_frame,text=f"Pendir Sousu -- {sous['Pendir sous']}",variable=pendir,cursor="hand2",command=totalpizza)
 pendir_combobox.place(relx=0.15,rely=0.45,relwidth=0.4,relheight=0.025)
 
-
 window.mainloop()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-          ***********
-      ***             ***
-    **                   **
-  *                         *
- *         *         *        *
-*                              *
-*                              * 
-*        ***           ***     *
- *          ************      *  
-   *                         *
-     **                    **
-       ***             ***
-           ************
-
-"""
-
-
-
-
-
-
-
-
-
-
-
-
-#Bitti 

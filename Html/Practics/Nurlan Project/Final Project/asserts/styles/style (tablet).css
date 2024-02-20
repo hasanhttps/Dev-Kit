@@ -1,0 +1,48 @@
+main .right, .group-9, .navbar{
+    visibility: collapse !important;
+    width: 0px !important;
+}
+
+main .left{
+    margin-left: -10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main .section-3 .header{
+    margin-left: -190px;
+}
+
+main .section-1{
+    display: flex;
+    justify-content: center;
+}
+
+main .section-2 .trusted-by-global{
+    width: 240px;
+}
+
+main .section-2 .brand{
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+main .section-2 .group-2{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+footer .right{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .group-12{
+    left: 58.21vh;
+}

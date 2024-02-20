@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\Turbo az Scraping.exe
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\Turbo az Scraping.deps.json
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\Turbo az Scraping.runtimeconfig.json
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\Turbo az Scraping.dll
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\Turbo az Scraping.pdb
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.csproj.CopyComplete
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.dll
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\refint\Turbo az Scraping.dll
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.pdb
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\Turbo az Scraping.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Turbo az Scraping\Turbo az Scraping\obj\Debug\net6.0\ref\Turbo az Scraping.dll

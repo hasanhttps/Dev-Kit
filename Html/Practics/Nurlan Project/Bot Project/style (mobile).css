@@ -1,0 +1,79 @@
+body {
+	overflow-x: hidden; /* This will hide horizontal scroll */
+}
+
+.landing .div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.landing .navbar{
+	width: 200px;
+}
+
+.landing .navbar-2, .overlap-2, .overlap-group, .text-wraper, .btn-secondary{
+	visibility: collapse !important;
+	width: 0px !important;
+}
+.landing .brand{
+	display: flex !important;
+	flex-direction: column !important;
+}
+
+.landing .trusted-by-global{
+	width: 300px;
+}
+
+.landing .group-2{
+	position: relative;
+	left: 0px;
+	top: 95px;
+	display: flex;
+	flex-wrap: wrap-reverse;
+	justify-content: left;
+	gap: 24px;
+	width: 375px;
+	flex-direction: row-reverse;
+}
+
+.landing .text-wrapper-8{
+	position: relative;
+	left: 0px;
+}
+
+.landing .text-wrapper-7{
+	position: relative;
+	left: 0px;
+	top: 920px;
+}
+
+.landing .we-did-research-what{
+	top: 920px;	
+	left: 0px;
+	position: relative;
+}
+
+.landing .groups{
+	position: absolute;
+	flex-direction: column;
+	width: 280px;
+	gap: 20px;
+}
+
+.landing .footer{
+	position: relative;
+	top: 1950px;
+	justify-content: center;
+}
+
+.landing .group-12{
+	position: relative;
+ 	top: -250px;
+	margin-left: 280px;
+}
+
+.landing .footer .group-11{
+	width: 413.562px;
+	height: 258.256px;
+}

@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\bin\Debug\net6.0\MulticastServer.exe
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\bin\Debug\net6.0\MulticastServer.deps.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\bin\Debug\net6.0\MulticastServer.runtimeconfig.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\bin\Debug\net6.0\MulticastServer.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\bin\Debug\net6.0\MulticastServer.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\refint\MulticastServer.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\MulticastServer.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\MulticastServer\obj\Debug\net6.0\ref\MulticastServer.dll

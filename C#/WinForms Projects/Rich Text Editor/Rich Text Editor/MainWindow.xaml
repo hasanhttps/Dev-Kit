@@ -1,0 +1,115 @@
+﻿<Window x:Class="Rich_Text_Editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rich_Text_Editor"
+        mc:Ignorable="d"
+        Title="Rich Text Editor" Height="450" Width="800" >
+    
+    <Grid Name="Main"> <!-- Main Grid -->
+        
+        
+        <Border CornerRadius="10" BorderThickness="3" BorderBrush="White">
+            
+            
+            <Grid Name="RoundedMain"> <!-- Round Main Grid -->
+        
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition> <!-- Logo and Menu -->
+                    <RowDefinition Height="70"></RowDefinition> <!--    Filters    -->
+                    <RowDefinition></RowDefinition>             <!--   Text Box    -->
+                </Grid.RowDefinitions>
+                
+               
+                
+                
+                <Border Grid.Row="0" VerticalAlignment="Top" CornerRadius="3" >
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                            <GradientStop Offset="0" Color="#003bf7" />
+                            <GradientStop Offset="1" Color="#009af4" />
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <Grid Name="LogoMenu">
+                        <!-- 2 row => Logo ucun , Menu lar ucun -->
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="23"></RowDefinition>
+                            <!-- Logo Definition-->
+                            <RowDefinition Height="27"></RowDefinition>
+                            <!-- Menu Definition -->
+                        </Grid.RowDefinitions>
+                        
+                        <!-- Logo -->
+                        <Label Grid.Row="0" Height="130" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontSize="18" FontFamily="Arial Black" Content="Rich Text Editor"></Label>
+                        <Menu Grid.Row="1" Background="Transparent" Height="20">
+                            <MenuItem Header="_File" FontFamily="Arial Black" Height="20" Width="40"></MenuItem>
+                            <MenuItem Header="Home" FontFamily="Arial Black" Height="20" Width="50"></MenuItem>
+                            <MenuItem Header="Insert" FontFamily="Arial Black" Height="20" Width="50"></MenuItem>
+                            <MenuItem Header="Format" FontFamily="Arial Black" Height="20" Width="60"></MenuItem>
+                            <MenuItem Header="View" FontFamily="Arial Black" Height="20" Width="50"></MenuItem>
+                            <MenuItem Header="Help" FontFamily="Arial Black" Height="20" Width="50"></MenuItem>
+                        </Menu>
+                    </Grid>
+
+                    
+                </Border>
+
+
+                <Border Grid.Row="1">
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                            <GradientStop Offset="0" Color="#003bf7" />
+                            <GradientStop Offset="1" Color="#009af4" />
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <WrapPanel>
+                        <TextBox 
+                            Name="FileDialogTextBox" Background="Transparent" Width="80">
+                            <TextBox.ToolTip>
+                                <StackPanel>
+                                    <TextBlock Text="File Loader" FontWeight="Bold"/>
+                                    <TextBlock Text="Enter the path and the program will bring you whats inside"/>
+                                </StackPanel>
+                            </TextBox.ToolTip>
+                        </TextBox>
+
+                        
+                        <Button Name="FileDialogButton" Width="20" Background="Transparent" Click="FileDialogButton_Click">
+                            <Button.ToolTip>
+                                <StackPanel>
+                                    <TextBlock Text="Loader Button" FontWeight="Bold" />
+                                    <TextBlock Text="Click the button and it will open a file dialog for you to choose a file"/>
+                                </StackPanel>
+                            </Button.ToolTip>
+                            ^</Button>
+                        <Button Name="SaveButton"  Width="50" Background="Transparent" Margin="20 0 0 0" FontWeight="Bold">Save</Button>
+                        <CheckBox Name ="AutoSaveCheckBox" Margin="8 2 0 0">
+                            <CheckBox.ToolTip>
+                                <StackPanel>
+                                    <TextBlock Text="Auto Save" FontWeight="Bold" />
+                                    <TextBlock Text="Saves the content every time it change"/>
+                                </StackPanel>
+                            </CheckBox.ToolTip>
+                        </CheckBox>
+                        <Button Name="CutButton" Width="50" Background="Transparent" Margin="20 0 0 0" FontWeight="Bold">Cut</Button>
+                        <Button Name="CopyButton" Width="50" Background="Transparent" Margin="20 0 0 0" FontWeight="Bold">Copy</Button>
+                        <Button Name="PasteButton" Width="50" Background="Transparent" Margin="20 0 0 0" FontWeight="Bold">Paste</Button>
+                        <Button Name="SelectAllButton"  Width="60" Background="Transparent" Margin="20 0 0 0" FontWeight="Bold">Select All</Button>
+                    </WrapPanel>
+                </Border>
+
+
+
+                <TextBox Grid.Row="2" BorderBrush="#003bf7" BorderThickness="2" Name="MainTextBox">
+                    
+                    
+                </TextBox>
+            </Grid>
+
+        </Border>
+    </Grid>
+</Window>

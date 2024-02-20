@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4cLizzqmQfD1/ilqbD1hkTGkouBzxCWdteyb6XWXdOPZDJbQp/hIgXJ4ee7+zM2D+ieM5yLVf9QQ588GKVDQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hasan\\WPF Projects\\Final Projects\\Threading Lesson 1\\Threading Lesson 1\\Threading Lesson 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\hasan\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\bin\Debug\net6.0\Network Programming MulticastClient.exe
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\bin\Debug\net6.0\Network Programming MulticastClient.deps.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\bin\Debug\net6.0\Network Programming MulticastClient.runtimeconfig.json
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\bin\Debug\net6.0\Network Programming MulticastClient.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\bin\Debug\net6.0\Network Programming MulticastClient.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\refint\Network Programming MulticastClient.dll
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.pdb
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\Network Programming MulticastClient.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Network Programming MulticastClient\Network Programming MulticastClient\obj\Debug\net6.0\ref\Network Programming MulticastClient.dll

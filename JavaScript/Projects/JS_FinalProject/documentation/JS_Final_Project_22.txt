@@ -1,0 +1,39 @@
+Salam! JS lahiyəsini bu şəkildə etmək lazım olacaq. Sizə lahiyənin necə işləyəcəyini və sizdən nə lazım olduğunu təsvir edirəm.
+
+Lahiyə bir maqazin saytının işini tam olaraq göstərməlidir. Malların tam siyahısı sehifəsi olmalıdır. Maqazinə həm Admin adından giriş olmalıdır həmdə ki,
+Alıcı adından. İnternet maqazində üç fərqli maqazinin malları təqdim olunacaq. 
+
+Mallar səhifəsinə giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
+    1. Maqazindəki bütün malların siyahısını göstərmək lazımdır. 
+    2. Hər bir mala tıklayanda malın səhifəsi açılmalıdır
+    3. Malı səbətə əlavə etmək imkanı olmalıdır
+    4. Hər dəfə mala tıklayanda local storag-e bu kişi malı və ya qadın malı olduğu haqda məlumat getməlidir. Bu onu üçün olunur ki birinci müştəriyə uyğun olan mallar çıxsın. 
+        Sadece sorting edirsiniz.
+    5. Maqazinde malları qiymətə görə sıralamaq imkanı olmalıdır.“malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” düymələrinə tıklayanda o halda
+        mallar verilən sıralamaya uyğun göstərilməlidir.
+
+Admin adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
+    1. İnternet maqazində olan istənilən maqazinə mal əlavə etmək imkanını təmin etmək lazımdır
+    2. Admin paneldə malların axtarışını yazmaq lazımdır
+    3. Hər hansı bir malı maqazindən silmək imkanını təmin etmək lazımdır
+    4. Malın qiymətini dəyişmək imkanı təmin etmək lazımdır
+    5. İnternet maqazində olan istənilən maqazinə mal əlavə etmək imkanını təmin etmək lazımdır
+    6. Admin paneldə malları qiymətə görə sıralamaq imkanı olmalıdır.“malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” düymələrinə tıklayanda o
+        halda mallar verilən sıralamaya uyğun göstərilməlidir.
+    7. Admin panelde sifarish olunmush mallari gormek imkani olmalidir. Admin sehifesini icinde sifarishler bolmesi olmalidir. Bu bolmede 
+
+
+Alıcı adından giriş etdiyimiz zaman bu əməliyatları yerinə yetirmək imkanlarımız olmalıdır:
+    1. Alınan bütün malların siyahısını göstərmək lazımdır. Siyahıda hər bir malın adı, təsviri, qiyməti və hansı maqazinə aid olduğu göstərilməlidir
+    2. Alınan malların axtarışını yazmaq lazımdır
+    3. Səbətdə olan malları qiymətə görə sıralamaq imkanı olmalıdır.“malları qiyməti artan qaydada göstər” və “malları qiyməti azalan qaydada göstər” düymələrinə tıklayanda o 
+        halda mallar verilən sıralamaya uyğun göstərilməlidir.
+    4. Alıcının istədiyi malı öz səbətindən silmə imkanı olmalıdır.
+    5. Alıcının aldığı malları və aldığı malların toplam qiymətini görmək imkanı olmalıdır. Hər bir malın sayını artırmaq imkanı olmalıdır. Onu üçün hər malın yanında + və - 
+        operatorları yaradın.
+    6. Alıcının malları bir forma ilə sifariş etmə imkanı olmalıdır. Servere obyekt göndərirsiz. Obyektde alıcının adı,meilı, nömrəsi və mallar massivi olacaq.
+
+
+Bu APİ ilə işləyəcəksiz:
+
+https://github.com/ramin98/express-server-of-goods

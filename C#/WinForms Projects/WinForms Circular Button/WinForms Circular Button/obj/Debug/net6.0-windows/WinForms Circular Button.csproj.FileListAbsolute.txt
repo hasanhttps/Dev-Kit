@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\bin\Debug\net6.0-windows\WinForms Circular Button.exe
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\bin\Debug\net6.0-windows\WinForms Circular Button.deps.json
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\bin\Debug\net6.0-windows\WinForms Circular Button.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\bin\Debug\net6.0-windows\WinForms Circular Button.dll
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\bin\Debug\net6.0-windows\WinForms Circular Button.pdb
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms_Circular_Button.Form1.resources
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.dll
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\refint\WinForms Circular Button.dll
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.pdb
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\WinForms Circular Button.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Circular Button\WinForms Circular Button\obj\Debug\net6.0-windows\ref\WinForms Circular Button.dll

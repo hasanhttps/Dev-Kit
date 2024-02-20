@@ -1,0 +1,29 @@
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\WPF Video Streaming Research.exe
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\WPF Video Streaming Research.deps.json
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\WPF Video Streaming Research.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\WPF Video Streaming Research.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\WPF Video Streaming Research.pdb
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.g.resources
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\refint\WPF Video Streaming Research.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.pdb
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\ref\WPF Video Streaming Research.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research_Content.g.cs
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\hasan\source\repos\WPF Video Streaming Research\WPF Video Streaming Research\obj\Debug\net6.0-windows\WPF Video Streaming Research.csproj.CopyComplete

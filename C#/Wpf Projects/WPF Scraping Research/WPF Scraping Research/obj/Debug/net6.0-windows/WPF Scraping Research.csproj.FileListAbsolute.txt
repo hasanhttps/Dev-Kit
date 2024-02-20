@@ -1,0 +1,24 @@
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\WPF Scraping Research.exe
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\WPF Scraping Research.deps.json
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\WPF Scraping Research.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\WPF Scraping Research.dll
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\WPF Scraping Research.pdb
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.g.resources
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.csproj.CopyComplete
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.dll
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\refint\WPF Scraping Research.dll
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.pdb
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\WPF Scraping Research.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Scraping Research\WPF Scraping Research\obj\Debug\net6.0-windows\ref\WPF Scraping Research.dll

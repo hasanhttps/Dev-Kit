@@ -1,0 +1,32 @@
+﻿<Window x:Class="MVVM.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM.Views" 
+        mc:Ignorable="d"
+        Title="MainView" Height="450" Width="800">
+
+    <Grid>
+
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" >
+
+            <ComboBox ItemsSource="{Binding Cars}" SelectedItem="{Binding selectCar}" DisplayMemberPath="Make"/>
+
+            <TextBlock Text="Make"/>
+            <TextBox Text="{Binding selectCar.Make, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Model"/>
+            <TextBox Text="{Binding selectCar.Model, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBlock Text="Year"/>
+            <TextBox Text="{Binding selectCar.Year, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button  Command="{Binding ShowCommand}" Content="Show"/>
+                <Button Command="{Binding SaveCommand}" Content="Save"/>
+                <Button Content="Edit"/>
+                <Button Command="{Binding DeleteCommand}" Content="Delete"/>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</Window>

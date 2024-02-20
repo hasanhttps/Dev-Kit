@@ -1,0 +1,30 @@
+D:\Network Programming\Chat App TcpClient\SERVER\bin\Debug\net6.0\SERVER.exe
+D:\Network Programming\Chat App TcpClient\SERVER\bin\Debug\net6.0\SERVER.deps.json
+D:\Network Programming\Chat App TcpClient\SERVER\bin\Debug\net6.0\SERVER.runtimeconfig.json
+D:\Network Programming\Chat App TcpClient\SERVER\bin\Debug\net6.0\SERVER.dll
+D:\Network Programming\Chat App TcpClient\SERVER\bin\Debug\net6.0\SERVER.pdb
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.csproj.AssemblyReference.cache
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfoInputs.cache
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfo.cs
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.csproj.CoreCompileInputs.cache
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.dll
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\refint\SERVER.dll
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.pdb
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\SERVER.genruntimeconfig.cache
+D:\Network Programming\Chat App TcpClient\SERVER\obj\Debug\net6.0\ref\SERVER.dll
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\bin\Debug\net6.0\SERVER.exe
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\bin\Debug\net6.0\SERVER.deps.json
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\bin\Debug\net6.0\SERVER.runtimeconfig.json
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\bin\Debug\net6.0\SERVER.dll
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\bin\Debug\net6.0\SERVER.pdb
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.csproj.AssemblyReference.cache
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfo.cs
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.dll
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\refint\SERVER.dll
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.pdb
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\SERVER.genruntimeconfig.cache
+C:\Users\hasan\Source\Repos\ChatApp-Network-Programming\SERVER\obj\Debug\net6.0\ref\SERVER.dll
