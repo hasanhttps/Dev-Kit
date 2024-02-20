@@ -1,5 +1,3 @@
-Absolutely, here's a more professional version for your README.md file:
-
 # DevKit Repository
 
 Welcome to the DevKit repository! This collection serves as a comprehensive archive for my programming notes, projects, research, lesson practices, and homework across various technologies.
